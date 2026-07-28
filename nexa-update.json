@@ -1,10 +1,10 @@
 {
-    "versionCode":  4,
-    "versionName":  "0.2.2",
-    "apkUrl":  "https://raw.githubusercontent.com/kellermayererich-bot/nexa-releases/main/apk/NEXA-v0.2.2.apk",
-    "sha256":  "cb0d9ac0d0fa2930540156f971e0e437b7ad3f2bbb4d514e89737d4c29acd256",
-    "sizeBytes":  39135394,
+    "versionCode":  5,
+    "versionName":  "0.3.0",
+    "apkUrl":  "https://raw.githubusercontent.com/kellermayererich-bot/nexa-releases/main/apk/NEXA-v0.3.0.apk",
+    "sha256":  "c833942c5948b4bab4ea203d0501b448a5eb1200c2381bbf66f5cde164c63bb6",
+    "sizeBytes":  39201107,
     "minSdk":  26,
-    "notes":  "Update-Pruefung vertraegt jetzt ein Byte-Order-Mark im Manifest",
-    "publishedAt":  "2026-07-28T19:55:27Z"
+    "notes":  "Ladebildschirm mit echtem Fortschritt, Startbereich mit anstehenden Streams, Favoriten mit Entfernen, schmalere Sidebar mit Uhrzeit, Informationen neu geschrieben",
+    "publishedAt":  "2026-07-28T20:20:30Z"
 }
