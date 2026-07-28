@@ -1,10 +1,10 @@
 {
-    "versionCode":  9,
-    "versionName":  "0.4.2",
-    "apkUrl":  "https://raw.githubusercontent.com/kellermayererich-bot/nexa-releases/main/apk/NEXA-v0.4.2.apk",
-    "sha256":  "556aba8f277ae8f5d7318b2ee9ff9260a986a7539c03d93d1f2a7e1eb48d9207",
-    "sizeBytes":  41203713,
+    "versionCode":  10,
+    "versionName":  "0.5.0",
+    "apkUrl":  "https://raw.githubusercontent.com/kellermayererich-bot/nexa-releases/main/apk/NEXA-v0.5.0.apk",
+    "sha256":  "fd90276bc0116ca512010708912aa397e903bd0ade6c7209edf15f26c95f9c42",
+    "sizeBytes":  41222644,
     "minSdk":  26,
-    "notes":  "Test-Kategorie: Stoke City gegen Everton mit der gelieferten Adresse, damit unmittelbar sichtbar wird, warum eine Webseiten-Adresse nicht abspielbar ist",
-    "publishedAt":  "2026-07-28T21:41:31Z"
+    "notes":  "Kategorie Live-Sender mit 60 geprueften Sportsendern, Unterstuetzung fuer Anbieter-Kopfzeilen, M3U-Leser fuer IPTV-Listen",
+    "publishedAt":  "2026-07-28T22:02:01Z"
 }
