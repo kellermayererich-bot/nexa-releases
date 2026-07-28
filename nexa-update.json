@@ -1,10 +1,10 @@
 {
-    "versionCode":  14,
-    "versionName":  "0.6.0",
-    "apkUrl":  "https://raw.githubusercontent.com/kellermayererich-bot/nexa-releases/main/apk/NEXA-v0.6.0.apk",
-    "sha256":  "2fd8b99896de1ffe119f2059c31bc8939eb55f7cf6e50e4959932c01f1e9d7be",
-    "sizeBytes":  41238969,
+    "versionCode":  15,
+    "versionName":  "0.6.1",
+    "apkUrl":  "https://raw.githubusercontent.com/kellermayererich-bot/nexa-releases/main/apk/NEXA-v0.6.1.apk",
+    "sha256":  "0cf9bf34b49fd9eb58e27b9695d2564442268f7bafd776053cb04f6a613d3794",
+    "sizeBytes":  41240257,
     "minSdk":  26,
-    "notes":  "Test-Kategorie entfernt, Vollbild-Knopf entfernt, Katalog-Abgleich mit der Verwaltung eingebaut: Kategorien abschaltbar und Zuordnungen kommen ohne App-Update an",
-    "publishedAt":  "2026-07-28T23:26:06Z"
+    "notes":  "Live-Sender abgeschaltet, Spielplaene als Datei statt im Quelltext, Beschriftungen Download und Installieren",
+    "publishedAt":  "2026-07-28T23:36:44Z"
 }
