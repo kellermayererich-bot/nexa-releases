@@ -1,0 +1,10 @@
+﻿{
+    "versionCode":  3,
+    "versionName":  "0.2.1",
+    "apkUrl":  "https://raw.githubusercontent.com/kellermayererich-bot/nexa-releases/main/apk/NEXA-v0.2.1.apk",
+    "sha256":  "d2ee072d7dd60dbe57854f34be765df9659bf04e4088a44aff1fe259b4fa1161",
+    "sizeBytes":  39135394,
+    "minSdk":  26,
+    "notes":  "Erste Fassung: Selbstaktualisierung, verschluesselte Datenbank, NFL-Spielwoche 1, Bundesliga, 286 Vereinswappen",
+    "publishedAt":  "2026-07-28T19:44:17Z"
+}
