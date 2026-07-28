@@ -1,10 +1,10 @@
 {
-    "versionCode":  11,
-    "versionName":  "0.5.1",
-    "apkUrl":  "https://raw.githubusercontent.com/kellermayererich-bot/nexa-releases/main/apk/NEXA-v0.5.1.apk",
-    "sha256":  "e68fba6aee1d94ef96840449c53e296240e86259eaece14c6f2d3ab6694f87a7",
+    "versionCode":  12,
+    "versionName":  "0.5.2",
+    "apkUrl":  "https://raw.githubusercontent.com/kellermayererich-bot/nexa-releases/main/apk/NEXA-v0.5.2.apk",
+    "sha256":  "7d0944463d1f6e614241be9f325b31382c616e202104170eff76e9417dd8f499",
     "sizeBytes":  41222644,
     "minSdk":  26,
-    "notes":  "Ereignis mit nur einem Stream startet direkt, ohne Auswahlliste",
-    "publishedAt":  "2026-07-28T22:09:29Z"
+    "notes":  "Programmkennung am Stream vorbereitet; Programmfuehrer bleibt dem Desktop-Werkzeug vorbehalten",
+    "publishedAt":  "2026-07-28T22:32:39Z"
 }
