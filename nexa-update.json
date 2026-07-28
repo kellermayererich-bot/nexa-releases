@@ -1,10 +1,10 @@
 {
-    "versionCode":  6,
-    "versionName":  "0.3.1",
-    "apkUrl":  "https://raw.githubusercontent.com/kellermayererich-bot/nexa-releases/main/apk/NEXA-v0.3.1.apk",
-    "sha256":  "cdd8105913d62a9841df979b74abec13a5788d96b6f703bcd85d828a3098e9af",
-    "sizeBytes":  38269709,
+    "versionCode":  7,
+    "versionName":  "0.4.0",
+    "apkUrl":  "https://raw.githubusercontent.com/kellermayererich-bot/nexa-releases/main/apk/NEXA-v0.4.0.apk",
+    "sha256":  "3d31f236ca1dbfc27b9d33b01d4c75fb686697fab971e3f56b86bda44b004380",
+    "sizeBytes":  41164740,
     "minSdk":  26,
-    "notes":  "Alle 11 Ligen als Kategorien: NFL, NBA, NHL, MLB, Bundesliga, La Liga, Premier League, Serie A, Ligue 1, Champions League, MLS mit 269 Vereinswappen und Liga-Logos",
-    "publishedAt":  "2026-07-28T20:39:57Z"
+    "notes":  "Videoplayer: HLS, DASH, adaptive Qualitaet, Live-Erkennung, Streamauswahl je Spiel, Test-Kategorie mit geprueften Teststreams",
+    "publishedAt":  "2026-07-28T21:19:30Z"
 }
