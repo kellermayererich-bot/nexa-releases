@@ -1,10 +1,10 @@
 {
-    "versionCode":  15,
-    "versionName":  "0.6.1",
-    "apkUrl":  "https://raw.githubusercontent.com/kellermayererich-bot/nexa-releases/main/apk/NEXA-v0.6.1.apk",
-    "sha256":  "0cf9bf34b49fd9eb58e27b9695d2564442268f7bafd776053cb04f6a613d3794",
-    "sizeBytes":  41240257,
-    "minSdk":  26,
-    "notes":  "Live-Sender abgeschaltet, Spielplaene als Datei statt im Quelltext, Beschriftungen Download und Installieren",
-    "publishedAt":  "2026-07-28T23:36:44Z"
+    "versionCode": 16,
+    "versionName": "0.6.2",
+    "apkUrl": "https://raw.githubusercontent.com/kellermayererich-bot/nexa-releases/main/apk/NEXA-v0.6.2.apk",
+    "sha256": "364fab9119183f7c1f3b6aa45663d6027cdf704211458715f2d639c85470d7d5",
+    "sizeBytes": 41256669,
+    "minSdk": 26,
+    "notes": "Werte im Player komplett: Netztyp, Signal, Download, Upload, Ping, Verbrauch. Hell/Dunkel-Umschalter. Suchsymbol entfernt.",
+    "publishedAt": "2026-07-28T23:53:38Z"
 }
