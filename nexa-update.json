@@ -1,10 +1,10 @@
 {
-    "versionCode":  10,
-    "versionName":  "0.5.0",
-    "apkUrl":  "https://raw.githubusercontent.com/kellermayererich-bot/nexa-releases/main/apk/NEXA-v0.5.0.apk",
-    "sha256":  "fd90276bc0116ca512010708912aa397e903bd0ade6c7209edf15f26c95f9c42",
+    "versionCode":  11,
+    "versionName":  "0.5.1",
+    "apkUrl":  "https://raw.githubusercontent.com/kellermayererich-bot/nexa-releases/main/apk/NEXA-v0.5.1.apk",
+    "sha256":  "e68fba6aee1d94ef96840449c53e296240e86259eaece14c6f2d3ab6694f87a7",
     "sizeBytes":  41222644,
     "minSdk":  26,
-    "notes":  "Kategorie Live-Sender mit 60 geprueften Sportsendern, Unterstuetzung fuer Anbieter-Kopfzeilen, M3U-Leser fuer IPTV-Listen",
-    "publishedAt":  "2026-07-28T22:02:01Z"
+    "notes":  "Ereignis mit nur einem Stream startet direkt, ohne Auswahlliste",
+    "publishedAt":  "2026-07-28T22:09:29Z"
 }
