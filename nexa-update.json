@@ -1,10 +1,10 @@
 {
-    "versionCode":  7,
-    "versionName":  "0.4.0",
-    "apkUrl":  "https://raw.githubusercontent.com/kellermayererich-bot/nexa-releases/main/apk/NEXA-v0.4.0.apk",
-    "sha256":  "3d31f236ca1dbfc27b9d33b01d4c75fb686697fab971e3f56b86bda44b004380",
+    "versionCode":  8,
+    "versionName":  "0.4.1",
+    "apkUrl":  "https://raw.githubusercontent.com/kellermayererich-bot/nexa-releases/main/apk/NEXA-v0.4.1.apk",
+    "sha256":  "d9a58cd2382efc419b4b84837a4073206c40aec5cbc12d1be2387d76145e1830",
     "sizeBytes":  41164740,
     "minSdk":  26,
-    "notes":  "Videoplayer: HLS, DASH, adaptive Qualitaet, Live-Erkennung, Streamauswahl je Spiel, Test-Kategorie mit geprueften Teststreams",
-    "publishedAt":  "2026-07-28T21:19:30Z"
+    "notes":  "Sidebar-Navigation aus der Streamliste heraus behoben, groesserer Play-Button, Rahmen an den Player-Schaltflaechen, Vollbild am rechten Rand, Zurueck-Button blendet mit aus, Live-Teststream ersetzt",
+    "publishedAt":  "2026-07-28T21:37:56Z"
 }
