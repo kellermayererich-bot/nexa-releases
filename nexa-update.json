@@ -1,10 +1,10 @@
 {
-    "versionCode":  12,
-    "versionName":  "0.5.2",
-    "apkUrl":  "https://raw.githubusercontent.com/kellermayererich-bot/nexa-releases/main/apk/NEXA-v0.5.2.apk",
-    "sha256":  "7d0944463d1f6e614241be9f325b31382c616e202104170eff76e9417dd8f499",
-    "sizeBytes":  41222644,
+    "versionCode":  13,
+    "versionName":  "0.5.3",
+    "apkUrl":  "https://raw.githubusercontent.com/kellermayererich-bot/nexa-releases/main/apk/NEXA-v0.5.3.apk",
+    "sha256":  "ca18207ea3f5763a4889996ff36ef5e45414bd8152688e77e079d99bdc2eb0aa",
+    "sizeBytes":  41222585,
     "minSdk":  26,
-    "notes":  "Programmkennung am Stream vorbereitet; Programmfuehrer bleibt dem Desktop-Werkzeug vorbehalten",
-    "publishedAt":  "2026-07-28T22:32:39Z"
+    "notes":  "Wiedergabetest mit fuenf echten Fernsehsendern: KSHB Kansas City und ABC Denver lokal, NBC CBS Fox national. Chiefs gegen Broncos mit Kansas-City-Sender verknuepft. Kein Stream verfuegbar statt Keine Streams",
+    "publishedAt":  "2026-07-28T23:03:10Z"
 }
