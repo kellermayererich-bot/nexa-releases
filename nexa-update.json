@@ -1,10 +1,10 @@
 {
-    "versionCode":  28,
-    "versionName":  "0.6.14",
-    "apkUrl":  "https://raw.githubusercontent.com/kellermayererich-bot/nexa-releases/main/apk/NEXA-v0.6.14.apk",
-    "sha256":  "ef56af533d350c6dd3248a374f6a2963565e620d7a2b7bd7a5825985ba4ed02d",
-    "sizeBytes":  41713138,
+    "versionCode":  29,
+    "versionName":  "0.6.15",
+    "apkUrl":  "https://raw.githubusercontent.com/kellermayererich-bot/nexa-releases/main/apk/NEXA-v0.6.15.apk",
+    "sha256":  "c3f2d72664c0f3103571694e5f355042f42995666b9e76540bd63f4f8f846468",
+    "sizeBytes":  41750081,
     "minSdk":  26,
-    "notes":  "Fehler melden bei laufendem Spiel mit fuenf Gruenden und Sperrzeit. Benachrichtigungs-Schalter. Sprache Deutsch oder Englisch. Sofortiger Abgleich beim Oeffnen. Informationen neu. Fehlerberichte werden festgehalten.",
-    "publishedAt":  "2026-07-29T04:10:13Z"
+    "notes":  "Favoriten sind jetzt Mannschaften, Merkliste fuer einzelne Spiele mit Auge-Symbol. Vollstaendig auf Deutsch und Englisch umschaltbar. Fehler melden. Sauberer Startvorgang. Informationen neu.",
+    "publishedAt":  "2026-07-29T04:24:37Z"
 }
