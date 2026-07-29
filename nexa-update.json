@@ -1,10 +1,10 @@
 {
-    "versionCode":  36,
-    "versionName":  "0.6.22",
-    "apkUrl":  "https://raw.githubusercontent.com/kellermayererich-bot/nexa-releases/main/apk/NEXA-v0.6.22.apk",
-    "sha256":  "c752f45a67a4f22333d112b035275bede4e2e9454c0c752f5ad448659bdbfe7a",
-    "sizeBytes":  41795090,
+    "versionCode":  37,
+    "versionName":  "0.6.23",
+    "apkUrl":  "https://raw.githubusercontent.com/kellermayererich-bot/nexa-releases/main/apk/NEXA-v0.6.23.apk",
+    "sha256":  "e3c0e5cd0c4d915f5fae16c7851a0877a760d52d0cddb0410c3b94da88cfe52a",
+    "sizeBytes":  41795094,
     "minSdk":  26,
-    "notes":  "Kategorien lassen sich wieder einschalten - der Fehler ist behoben. Reload dreht langsamer und immer ganz herum.",
-    "publishedAt":  "2026-07-29T15:40:49Z"
+    "notes":  "Live-Senderliste entfernt. Englisch ist jetzt wirklich vollstaendig - Meldegruende, Player, Ladebildschirm. Neu laden holt den Stand sofort statt aus dem Zwischenspeicher.",
+    "publishedAt":  "2026-07-29T16:15:16Z"
 }
