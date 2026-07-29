@@ -1,10 +1,10 @@
 {
-    "versionCode":  26,
-    "versionName":  "0.6.12",
-    "apkUrl":  "https://raw.githubusercontent.com/kellermayererich-bot/nexa-releases/main/apk/NEXA-v0.6.12.apk",
-    "sha256":  "b892732c297a878b3fffad6ce9d0505bb7b8fc8c670278c0b3eae91820dd583e",
-    "sizeBytes":  41345496,
+    "versionCode":  27,
+    "versionName":  "0.6.13",
+    "apkUrl":  "https://raw.githubusercontent.com/kellermayererich-bot/nexa-releases/main/apk/NEXA-v0.6.13.apk",
+    "sha256":  "943baeb2ea70f3f05c162037605ff399a9ae732a095860321cd410002d2d7887",
+    "sizeBytes":  41663986,
     "minSdk":  26,
-    "notes":  "Live ab 15 Minuten vor Anpfiff, Endstand mit 5 Minuten Nachlauf fuer verzoegerte Streams. Spielzeile wieder mittig. Fehlgeschlagene Downloads werden nicht mehr verschwiegen. Alle uebertragenden Sender bleiben zur Auswahl.",
-    "publishedAt":  "2026-07-29T03:05:54Z"
+    "notes":  "Benachrichtigungen laufen jetzt auch bei geschlossener App - Update und Spielbeginn, Antippen fuehrt direkt zum Spiel. Videobild im richtigen Seitenverhaeltnis mit schwarzen Balken. Start und Favoriten sind antippbar. 435 Sender, NBC jetzt dabei.",
+    "publishedAt":  "2026-07-29T03:26:38Z"
 }
