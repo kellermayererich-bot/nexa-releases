@@ -1,10 +1,10 @@
 {
-    "versionCode":  29,
-    "versionName":  "0.6.15",
-    "apkUrl":  "https://raw.githubusercontent.com/kellermayererich-bot/nexa-releases/main/apk/NEXA-v0.6.15.apk",
-    "sha256":  "c3f2d72664c0f3103571694e5f355042f42995666b9e76540bd63f4f8f846468",
-    "sizeBytes":  41750081,
+    "versionCode":  30,
+    "versionName":  "0.6.16",
+    "apkUrl":  "https://raw.githubusercontent.com/kellermayererich-bot/nexa-releases/main/apk/NEXA-v0.6.16.apk",
+    "sha256":  "c37198f70daf17ca778affd26effd6f72640cb733adb2ca1ed5d8fffa546df62",
+    "sizeBytes":  41766465,
     "minSdk":  26,
-    "notes":  "Favoriten sind jetzt Mannschaften, Merkliste fuer einzelne Spiele mit Auge-Symbol. Vollstaendig auf Deutsch und Englisch umschaltbar. Fehler melden. Sauberer Startvorgang. Informationen neu.",
-    "publishedAt":  "2026-07-29T04:24:37Z"
+    "notes":  "NEXA CONTROL neu: Titel mittig, Menue faehrt von links ein, Abmelden mit Schloss. Deutsch und Englisch jetzt vollstaendig, auch Datum und Seitenleiste. Fehlermeldungen sind unterwegs verschlossen.",
+    "publishedAt":  "2026-07-29T06:22:01Z"
 }
