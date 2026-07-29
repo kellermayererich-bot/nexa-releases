@@ -1,5 +1,5 @@
 {
-  "erzeugtAm": "2026-07-29T14:01:35.849644Z",
+  "erzeugtAm": "2026-07-29T14:31:18.915136Z",
   "kategorien": [
     {
       "id": "cat-nba",
@@ -44,8 +44,7 @@
   ],
   "meldeSchluessel": "MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAvbwZL8UrqnBItHcFACGxkD60YjQTg-egAB838QOlhbbnp8dyqGkhSAqh4A-k-b-s0yNjfEokshW2oJ1yY46dniV9T1poXwXVe-zzUzjfwmV9-E5Pny4Uvoduc5AnkVJo1F3nuQZyvhXSQN8CdAleHCyEdtnF1Z_LAOjYBqUYTdtiOnp6StiNQjkyv4-WyDygw_wlqbTsWhh-Ab3LSkRDCRmbmPjIJBLB87H28OyE18lJo7SYsJIxM7kdhMcshtyZxMthRbk3S_aXoMTB5ECFdQ_sZcAI811-7Y8LXf73ivqtTn0C4qV_mq1ZR-nJVGekfrDs0dv75r5N9uHlctrJI6sDCANyPsbsjZhLE95egFL7CybapORK4KnONakCJAihEpabxVYIE--Qa-okXURKsLBrQ-XohuoNOVM05uM6JRlEI4sqBPCv_GI0oAiJNwJ0CKvj7mrS5JEcjBmBn_6Ajn5LGhWJbVWKdpuRdQ96nEGNlKOQrDhxOVG2QJcvS1q14bnBhqOhyLxGPHhQhbcmPGpgI8O1KLRnDcNRyL-wzcT5JZ3Pb5NDD3HU8s4-W-cxobUhXrU2DrL7iSdJ_xzZvC267zefKqm4teW3J0Crl9Ik2u2U8T-YtxSek10gfMVi5bFNfXH1XHdzwKoObmch9BySeFpxXT6DKfvo_sXbV7sCAwEAAQ",
   "livetest": {
-    "aktiv": true,
-    "espnId": "401872931"
+    "aktiv": false
   },
   "zuordnungen": []
 }
