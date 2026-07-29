@@ -1,10 +1,10 @@
 {
-    "versionCode":  32,
-    "versionName":  "0.6.18",
-    "apkUrl":  "https://raw.githubusercontent.com/kellermayererich-bot/nexa-releases/main/apk/NEXA-v0.6.18.apk",
-    "sha256":  "d9c46ec8de2d250bb5b25a281f4b2503cf7a59da8c28cc0ac69f799cef0a0830",
-    "sizeBytes":  41782849,
+    "versionCode":  33,
+    "versionName":  "0.6.19",
+    "apkUrl":  "https://raw.githubusercontent.com/kellermayererich-bot/nexa-releases/main/apk/NEXA-v0.6.19.apk",
+    "sha256":  "61f35889b43f50e5f9fe9fe25d46240651985210e0b7fde22b2d4ff439dfdd64",
+    "sizeBytes":  41782845,
     "minSdk":  26,
-    "notes":  "Mehrere Uebertragungen je Spiel: Antippen oeffnet erst die Auswahl mit den echten Sendernamen. Die letzte Wahl bleibt gemerkt, nach dem Verlassen fragt NEXA nach Fehlern.",
-    "publishedAt":  "2026-07-29T12:56:10Z"
+    "notes":  "Reload-Knopf: oben rechts auf Start, mittig rechts in einer Liga. Beim Probelauf stehen fuenf echte Sportsender zur Auswahl, damit sich die ganze Kette mit Bild pruefen laesst.",
+    "publishedAt":  "2026-07-29T13:28:30Z"
 }
