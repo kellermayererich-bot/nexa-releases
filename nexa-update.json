@@ -1,10 +1,10 @@
 {
-    "versionCode":  21,
-    "versionName":  "0.6.7",
-    "apkUrl":  "https://raw.githubusercontent.com/kellermayererich-bot/nexa-releases/main/apk/NEXA-v0.6.7.apk",
-    "sha256":  "d48fe0a0f224b6155660ebf51fec729ee2a09bce6c6d1e96213b0f7ff09ab88c",
+    "versionCode":  23,
+    "versionName":  "0.6.9",
+    "apkUrl":  "https://raw.githubusercontent.com/kellermayererich-bot/nexa-releases/main/apk/NEXA-v0.6.9.apk",
+    "sha256":  "09caa133e7f07da77f9580efa0f8c28c5d59916819178f4df0ea646bce9dbe2d",
     "sizeBytes":  41331824,
     "minSdk":  26,
-    "notes":  "Wochensprung repariert, Probelauf kommt ohne Neustart an, Titel passt sich der Breite an, Mannschaftsnamen einheitlich zweizeilig, Verlaengerung als eigene Zeile, Kategorie-Logo in der Kopfzeile, Hintergrundsuche mit Kurzmitteilung",
-    "publishedAt":  "2026-07-29T01:38:23Z"
+    "notes":  "Punktestand mittig unter VS mit Viertel und Uhr, LIVE darunter. Football unter dem Wappen. Start und Favoriten zeigen Live-Daten. Probelauf gibt einen Stream vor.",
+    "publishedAt":  "2026-07-29T02:08:18Z"
 }
