@@ -1,10 +1,10 @@
 {
-    "versionCode":  35,
-    "versionName":  "0.6.21",
-    "apkUrl":  "https://raw.githubusercontent.com/kellermayererich-bot/nexa-releases/main/apk/NEXA-v0.6.21.apk",
-    "sha256":  "b01c211144dda31c9d1c51af7d6c3ad02e046d534ea958805c9c8c80abcb935b",
-    "sizeBytes":  41795094,
+    "versionCode":  36,
+    "versionName":  "0.6.22",
+    "apkUrl":  "https://raw.githubusercontent.com/kellermayererich-bot/nexa-releases/main/apk/NEXA-v0.6.22.apk",
+    "sha256":  "c752f45a67a4f22333d112b035275bede4e2e9454c0c752f5ad448659bdbfe7a",
+    "sizeBytes":  41795090,
     "minSdk":  26,
-    "notes":  "Heller Modus in gebrochenem Weiss, Wappen bekommen eine Flaeche und bleiben sichtbar. Alle Fenster gleich aufgebaut, geschlossen wird oben rechts mit dem Kreuz.",
-    "publishedAt":  "2026-07-29T15:13:32Z"
+    "notes":  "Kategorien lassen sich wieder einschalten - der Fehler ist behoben. Reload dreht langsamer und immer ganz herum.",
+    "publishedAt":  "2026-07-29T15:40:49Z"
 }
