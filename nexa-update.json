@@ -1,10 +1,10 @@
 {
-    "versionCode":  18,
-    "versionName":  "0.6.4",
-    "apkUrl":  "https://raw.githubusercontent.com/kellermayererich-bot/nexa-releases/main/apk/NEXA-v0.6.4.apk",
-    "sha256":  "e6497f9d9263292639240bdd1167f6dc1d080e672dcc2d9aa885b84158b37ae2",
-    "sizeBytes":  41256669,
+    "versionCode":  19,
+    "versionName":  "0.6.5",
+    "apkUrl":  "https://raw.githubusercontent.com/kellermayererich-bot/nexa-releases/main/apk/NEXA-v0.6.5.apk",
+    "sha256":  "4737cc2c18e8d4f3fbcc38de70d929c00bf7624918e5ee7c0642de4816ae88f7",
+    "sizeBytes":  41315408,
     "minSdk":  26,
-    "notes":  "Update jetzt als Fenster mit Download-Symbol statt Leiste. Kantige Umschalter in den Einstellungen. Zurueck-Knopf abschaltbar. Auf Updates pruefen statt Jetzt pruefen.",
-    "publishedAt":  "2026-07-29T00:38:22Z"
+    "notes":  "Vollstaendiger NFL-Spielplan 2026 mit 272 Spielen und Wochenauswahl ueber das Kalendersymbol. Springt beim Oeffnen in die laufende Woche. Punktestand, Viertel, Uhr und Ballbesitz aus echten Daten.",
+    "publishedAt":  "2026-07-29T01:10:02Z"
 }
