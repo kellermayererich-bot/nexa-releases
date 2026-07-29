@@ -1,10 +1,10 @@
 {
-    "versionCode":  34,
-    "versionName":  "0.6.20",
-    "apkUrl":  "https://raw.githubusercontent.com/kellermayererich-bot/nexa-releases/main/apk/NEXA-v0.6.20.apk",
-    "sha256":  "f6d0c1ea6f85ec1acd53964a6c3957fd1b141a092121352bc4205dd028481a10",
-    "sizeBytes":  41782849,
+    "versionCode":  35,
+    "versionName":  "0.6.21",
+    "apkUrl":  "https://raw.githubusercontent.com/kellermayererich-bot/nexa-releases/main/apk/NEXA-v0.6.21.apk",
+    "sha256":  "b01c211144dda31c9d1c51af7d6c3ad02e046d534ea958805c9c8c80abcb935b",
+    "sizeBytes":  41795094,
     "minSdk":  26,
-    "notes":  "Player passt sich im Querformat an, feste Knopfplaetze, Rueckfrage mit Ja und Nein, Fehlerfenster nennt den Sender. Abgleich jede Minute. Schmalere Seitenleiste im gleichen Grau.",
-    "publishedAt":  "2026-07-29T14:34:25Z"
+    "notes":  "Heller Modus in gebrochenem Weiss, Wappen bekommen eine Flaeche und bleiben sichtbar. Alle Fenster gleich aufgebaut, geschlossen wird oben rechts mit dem Kreuz.",
+    "publishedAt":  "2026-07-29T15:13:32Z"
 }
