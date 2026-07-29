@@ -1,5 +1,5 @@
 {
-  "erzeugtAm": "2026-07-29T02:20:13.936905Z",
+  "erzeugtAm": "2026-07-29T02:56:29.571034Z",
   "kategorien": [
     {
       "id": "cat-nba",
@@ -43,8 +43,7 @@
     }
   ],
   "livetest": {
-    "aktiv": true,
-    "espnId": "401872931"
+    "aktiv": false
   },
   "zuordnungen": []
 }
