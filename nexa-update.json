@@ -1,10 +1,10 @@
 {
-    "versionCode":  30,
-    "versionName":  "0.6.16",
-    "apkUrl":  "https://raw.githubusercontent.com/kellermayererich-bot/nexa-releases/main/apk/NEXA-v0.6.16.apk",
-    "sha256":  "c37198f70daf17ca778affd26effd6f72640cb733adb2ca1ed5d8fffa546df62",
+    "versionCode":  31,
+    "versionName":  "0.6.17",
+    "apkUrl":  "https://raw.githubusercontent.com/kellermayererich-bot/nexa-releases/main/apk/NEXA-v0.6.17.apk",
+    "sha256":  "ff4a0a8dbf4fa6319be2f2408083a3da48cd2fa9b1ddeae321e9f0a456eb3f8b",
     "sizeBytes":  41766465,
     "minSdk":  26,
-    "notes":  "NEXA CONTROL neu: Titel mittig, Menue faehrt von links ein, Abmelden mit Schloss. Deutsch und Englisch jetzt vollstaendig, auch Datum und Seitenleiste. Fehlermeldungen sind unterwegs verschlossen.",
-    "publishedAt":  "2026-07-29T06:22:01Z"
+    "notes":  "Meldestelle erklaert sich jetzt selbst - das Feld darf leer bleiben.",
+    "publishedAt":  "2026-07-29T12:25:20Z"
 }
