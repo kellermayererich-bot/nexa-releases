@@ -1,9 +1,9 @@
 {
-    "versionCode":  34,
-    "versionName":  "0.6.20",
-    "apkUrl":  "https://raw.githubusercontent.com/kellermayererich-bot/nexa-releases/main/apk/NEXA-CONTROL-v0.6.20.apk",
-    "sha256":  "8e4955517d51f45e4cff4fe4d670dc1f8819e36b4f174f988a49e919a00f9ae5",
-    "sizeBytes":  31306962,
+    "versionCode":  35,
+    "versionName":  "0.6.21",
+    "apkUrl":  "https://raw.githubusercontent.com/kellermayererich-bot/nexa-releases/main/apk/NEXA-CONTROL-v0.6.21.apk",
+    "sha256":  "bffa80da7e6c0eab249c5f5377ba97d1edada8bbc2047c0787ed9b34b49ef339",
+    "sizeBytes":  31302823,
     "minSdk":  26,
-    "publishedAt":  "2026-07-29T14:37:34Z"
+    "publishedAt":  "2026-07-29T15:16:56Z"
 }
