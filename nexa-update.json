@@ -1,10 +1,10 @@
 {
-    "versionCode":  33,
-    "versionName":  "0.6.19",
-    "apkUrl":  "https://raw.githubusercontent.com/kellermayererich-bot/nexa-releases/main/apk/NEXA-v0.6.19.apk",
-    "sha256":  "61f35889b43f50e5f9fe9fe25d46240651985210e0b7fde22b2d4ff439dfdd64",
-    "sizeBytes":  41782845,
+    "versionCode":  34,
+    "versionName":  "0.6.20",
+    "apkUrl":  "https://raw.githubusercontent.com/kellermayererich-bot/nexa-releases/main/apk/NEXA-v0.6.20.apk",
+    "sha256":  "f6d0c1ea6f85ec1acd53964a6c3957fd1b141a092121352bc4205dd028481a10",
+    "sizeBytes":  41782849,
     "minSdk":  26,
-    "notes":  "Reload-Knopf: oben rechts auf Start, mittig rechts in einer Liga. Beim Probelauf stehen fuenf echte Sportsender zur Auswahl, damit sich die ganze Kette mit Bild pruefen laesst.",
-    "publishedAt":  "2026-07-29T13:28:30Z"
+    "notes":  "Player passt sich im Querformat an, feste Knopfplaetze, Rueckfrage mit Ja und Nein, Fehlerfenster nennt den Sender. Abgleich jede Minute. Schmalere Seitenleiste im gleichen Grau.",
+    "publishedAt":  "2026-07-29T14:34:25Z"
 }
