@@ -1,10 +1,10 @@
 {
-    "versionCode":  38,
-    "versionName":  "0.6.24",
-    "apkUrl":  "https://raw.githubusercontent.com/kellermayererich-bot/nexa-releases/main/apk/NEXA-v0.6.24.apk",
-    "sha256":  "72c6bd9aebf71c70428f9050ca29b029bee194a2285f87f5d14ffb3353057b45",
-    "sizeBytes":  41966614,
+    "versionCode":  39,
+    "versionName":  "0.6.25",
+    "apkUrl":  "https://raw.githubusercontent.com/kellermayererich-bot/nexa-releases/main/apk/NEXA-v0.6.25.apk",
+    "sha256":  "e73d09be429f43afbbdfc617ccee44d2af47f3f039e257920d33a639a74b2258",
+    "sizeBytes":  41966786,
     "minSdk":  26,
-    "notes":  "Echte Spielplaene fuer alle Ligen - 6702 Begegnungen mit Spieltag, Ort und Uhrzeit. Countdown und Spieltag jetzt auch auf Englisch.",
-    "publishedAt":  "2026-07-29T17:27:36Z"
+    "notes":  "Fehler behoben: die Spielplaene kamen wegen eines Zeitformats nirgends an. Alle 6702 Begegnungen sind wieder da, in NEXA und in CONTROL.",
+    "publishedAt":  "2026-07-29T18:40:05Z"
 }
