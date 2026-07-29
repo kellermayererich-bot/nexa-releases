@@ -1,10 +1,10 @@
 {
-    "versionCode":  27,
-    "versionName":  "0.6.13",
-    "apkUrl":  "https://raw.githubusercontent.com/kellermayererich-bot/nexa-releases/main/apk/NEXA-v0.6.13.apk",
-    "sha256":  "943baeb2ea70f3f05c162037605ff399a9ae732a095860321cd410002d2d7887",
-    "sizeBytes":  41663986,
+    "versionCode":  28,
+    "versionName":  "0.6.14",
+    "apkUrl":  "https://raw.githubusercontent.com/kellermayererich-bot/nexa-releases/main/apk/NEXA-v0.6.14.apk",
+    "sha256":  "ef56af533d350c6dd3248a374f6a2963565e620d7a2b7bd7a5825985ba4ed02d",
+    "sizeBytes":  41713138,
     "minSdk":  26,
-    "notes":  "Benachrichtigungen laufen jetzt auch bei geschlossener App - Update und Spielbeginn, Antippen fuehrt direkt zum Spiel. Videobild im richtigen Seitenverhaeltnis mit schwarzen Balken. Start und Favoriten sind antippbar. 435 Sender, NBC jetzt dabei.",
-    "publishedAt":  "2026-07-29T03:26:38Z"
+    "notes":  "Fehler melden bei laufendem Spiel mit fuenf Gruenden und Sperrzeit. Benachrichtigungs-Schalter. Sprache Deutsch oder Englisch. Sofortiger Abgleich beim Oeffnen. Informationen neu. Fehlerberichte werden festgehalten.",
+    "publishedAt":  "2026-07-29T04:10:13Z"
 }
