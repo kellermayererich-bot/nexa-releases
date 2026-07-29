@@ -1,10 +1,10 @@
 {
-    "versionCode":  37,
-    "versionName":  "0.6.23",
-    "apkUrl":  "https://raw.githubusercontent.com/kellermayererich-bot/nexa-releases/main/apk/NEXA-v0.6.23.apk",
-    "sha256":  "e3c0e5cd0c4d915f5fae16c7851a0877a760d52d0cddb0410c3b94da88cfe52a",
-    "sizeBytes":  41795094,
+    "versionCode":  38,
+    "versionName":  "0.6.24",
+    "apkUrl":  "https://raw.githubusercontent.com/kellermayererich-bot/nexa-releases/main/apk/NEXA-v0.6.24.apk",
+    "sha256":  "72c6bd9aebf71c70428f9050ca29b029bee194a2285f87f5d14ffb3353057b45",
+    "sizeBytes":  41966614,
     "minSdk":  26,
-    "notes":  "Live-Senderliste entfernt. Englisch ist jetzt wirklich vollstaendig - Meldegruende, Player, Ladebildschirm. Neu laden holt den Stand sofort statt aus dem Zwischenspeicher.",
-    "publishedAt":  "2026-07-29T16:15:16Z"
+    "notes":  "Echte Spielplaene fuer alle Ligen - 6702 Begegnungen mit Spieltag, Ort und Uhrzeit. Countdown und Spieltag jetzt auch auf Englisch.",
+    "publishedAt":  "2026-07-29T17:27:36Z"
 }
