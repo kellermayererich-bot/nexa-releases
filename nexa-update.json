@@ -1,10 +1,10 @@
 {
-    "versionCode":  17,
-    "versionName":  "0.6.3",
-    "apkUrl":  "https://raw.githubusercontent.com/kellermayererich-bot/nexa-releases/main/apk/NEXA-v0.6.3.apk",
-    "sha256":  "ad0a732e6a61acc862c9a0973069dc2d2c77d2076244536c0721ec6e847c99f3",
+    "versionCode":  18,
+    "versionName":  "0.6.4",
+    "apkUrl":  "https://raw.githubusercontent.com/kellermayererich-bot/nexa-releases/main/apk/NEXA-v0.6.4.apk",
+    "sha256":  "e6497f9d9263292639240bdd1167f6dc1d080e672dcc2d9aa885b84158b37ae2",
     "sizeBytes":  41256669,
     "minSdk":  26,
-    "notes":  "Spielzeilen sauber ausgerichtet, LIVE statt Uhrzeit mit rundem blinkenden Punkt, Statusleiste im Player weg, Ladebildschirm bleibt bis alles geladen ist, Synchronisation-Tab entfernt, Zurueck-Knopf abschaltbar",
-    "publishedAt":  "2026-07-29T00:24:17Z"
+    "notes":  "Update jetzt als Fenster mit Download-Symbol statt Leiste. Kantige Umschalter in den Einstellungen. Zurueck-Knopf abschaltbar. Auf Updates pruefen statt Jetzt pruefen.",
+    "publishedAt":  "2026-07-29T00:38:22Z"
 }
