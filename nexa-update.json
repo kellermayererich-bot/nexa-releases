@@ -1,10 +1,10 @@
 {
-    "versionCode":  23,
-    "versionName":  "0.6.9",
-    "apkUrl":  "https://raw.githubusercontent.com/kellermayererich-bot/nexa-releases/main/apk/NEXA-v0.6.9.apk",
-    "sha256":  "09caa133e7f07da77f9580efa0f8c28c5d59916819178f4df0ea646bce9dbe2d",
-    "sizeBytes":  41331824,
+    "versionCode":  24,
+    "versionName":  "0.6.10",
+    "apkUrl":  "https://raw.githubusercontent.com/kellermayererich-bot/nexa-releases/main/apk/NEXA-v0.6.10.apk",
+    "sha256":  "4670bc92a17f3d3e111b71859dc1b179b07378533382e2e84b92173755748821",
+    "sizeBytes":  41339152,
     "minSdk":  26,
-    "notes":  "Punktestand mittig unter VS mit Viertel und Uhr, LIVE darunter. Football unter dem Wappen. Start und Favoriten zeigen Live-Daten. Probelauf gibt einen Stream vor.",
-    "publishedAt":  "2026-07-29T02:08:18Z"
+    "notes":  "Uebertragender Sender direkt am Spiel aus der Quelle. Sendersuche unempfindlich gegen Schreibweisen. Programmfuehrer mit Kopierfunktion. Countdown verschwindet bei laufendem Spiel.",
+    "publishedAt":  "2026-07-29T02:38:39Z"
 }
