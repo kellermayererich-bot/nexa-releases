@@ -1,0 +1,46 @@
+{
+  "erzeugtAm": "2026-07-29T00:47:20.369236Z",
+  "kategorien": [
+    {
+      "id": "cat-nba",
+      "aktiv": false
+    },
+    {
+      "id": "cat-nhl",
+      "aktiv": false
+    },
+    {
+      "id": "cat-mlb",
+      "aktiv": false
+    },
+    {
+      "id": "cat-bundesliga",
+      "aktiv": false
+    },
+    {
+      "id": "cat-laliga",
+      "aktiv": false
+    },
+    {
+      "id": "cat-premier",
+      "aktiv": false
+    },
+    {
+      "id": "cat-seriea",
+      "aktiv": false
+    },
+    {
+      "id": "cat-ligue1",
+      "aktiv": false
+    },
+    {
+      "id": "cat-ucl",
+      "aktiv": false
+    },
+    {
+      "id": "cat-mls",
+      "aktiv": false
+    }
+  ],
+  "zuordnungen": []
+}
