@@ -1,10 +1,10 @@
 {
-    "versionCode":  20,
-    "versionName":  "0.6.6",
-    "apkUrl":  "https://raw.githubusercontent.com/kellermayererich-bot/nexa-releases/main/apk/NEXA-v0.6.6.apk",
-    "sha256":  "bc187347a3dd9f77dfa0d5db464fce2f5002a19665c8eaf8527527a9f02e421f",
-    "sizeBytes":  41315408,
+    "versionCode":  21,
+    "versionName":  "0.6.7",
+    "apkUrl":  "https://raw.githubusercontent.com/kellermayererich-bot/nexa-releases/main/apk/NEXA-v0.6.7.apk",
+    "sha256":  "d48fe0a0f224b6155660ebf51fec729ee2a09bce6c6d1e96213b0f7ff09ab88c",
+    "sizeBytes":  41331824,
     "minSdk":  26,
-    "notes":  "Ballbesitz als Football unter dem Mannschaftsnamen, Viertel und Uhr unter dem Punktestand. Probelauf, den CONTROL einschalten kann.",
-    "publishedAt":  "2026-07-29T01:18:59Z"
+    "notes":  "Wochensprung repariert, Probelauf kommt ohne Neustart an, Titel passt sich der Breite an, Mannschaftsnamen einheitlich zweizeilig, Verlaengerung als eigene Zeile, Kategorie-Logo in der Kopfzeile, Hintergrundsuche mit Kurzmitteilung",
+    "publishedAt":  "2026-07-29T01:38:23Z"
 }
