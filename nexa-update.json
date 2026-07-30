@@ -1,10 +1,10 @@
 {
-    "versionCode":  39,
-    "versionName":  "0.6.25",
-    "apkUrl":  "https://raw.githubusercontent.com/kellermayererich-bot/nexa-releases/main/apk/NEXA-v0.6.25.apk",
-    "sha256":  "e73d09be429f43afbbdfc617ccee44d2af47f3f039e257920d33a639a74b2258",
-    "sizeBytes":  41966786,
+    "versionCode":  40,
+    "versionName":  "1.0.0",
+    "apkUrl":  "https://raw.githubusercontent.com/kellermayererich-bot/nexa-releases/main/apk/NEXA-v1.0.0.apk",
+    "sha256":  "1d880272a53614f2307b998637554b2a8c384ef05a96ccd6d1f036f1c5cafb6c",
+    "sizeBytes":  12140821,
     "minSdk":  26,
-    "notes":  "Fehler behoben: die Spielplaene kamen wegen eines Zeitformats nirgends an. Alle 6702 Begegnungen sind wieder da, in NEXA und in CONTROL.",
-    "publishedAt":  "2026-07-29T18:40:05Z"
+    "notes":  "Fassung 1.0: 112 Befunde einer vollstaendigen Pruefung abgearbeitet. Datenbankschluessel richtiggestellt, veraltete Spiele entfernt, Signatur auf einen eigenen Schluessel umgestellt, Kontraste, Schriftgroessen und Rueckmeldungen ueberarbeitet.",
+    "publishedAt":  "2026-07-30T23:57:49Z"
 }
