@@ -1,9 +1,10 @@
 {
-    "versionCode":  39,
-    "versionName":  "0.6.25",
-    "apkUrl":  "https://raw.githubusercontent.com/kellermayererich-bot/nexa-releases/main/apk/NEXA-CONTROL-v0.6.25.apk",
-    "sha256":  "061a5fbcd2c167ad1ed04589d1fdc4404f153595c800f93dd76543803fa0f8e6",
-    "sizeBytes":  31472118,
+    "versionCode":  41,
+    "versionName":  "1.0.1",
+    "notes":  "Fassung 1.0: eigener Signaturschluessel, Loeschwort fuer die Meldestelle, Zugangsschluessel verdeckt, Kopfzeile und Eingabefelder wachsen mit der Systemschrift.",
+    "apkUrl":  "https://raw.githubusercontent.com/kellermayererich-bot/nexa-releases/main/apk/NEXA-CONTROL-v1.0.1.apk",
+    "sha256":  "d22154197e7ed046345035666d0cfe2cc2fc9c18939f7ac86567d2b497b6d2cc",
+    "sizeBytes":  3755353,
     "minSdk":  26,
-    "publishedAt":  "2026-07-30T19:36:22Z"
+    "publishedAt":  "2026-07-31T00:04:55Z"
 }
