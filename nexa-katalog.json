@@ -1,5 +1,5 @@
 {
-  "erzeugtAm": "2026-08-01T05:35:14.567Z",
+  "erzeugtAm": "2026-08-01T06:05:55.347Z",
   "kategorien": [],
   "meldeUrl": "https://nexa-meldestelle.kellermayererich.workers.dev",
   "meldeSchluessel": "MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEA008tSHivku4Xhpt8xFrPOK2Igar7tsBHQyORJ6vlRdxlluTfnfhme5s16Xt772UtHJObM5Gq-8paUrmZl1sLWUySI2EjbC1AF5Uh4OSybWigeA1IWVp2sc4PgNI74wAnpkkneYXLwq-ctQh7og5tCRuotX9WOKuJM27mIh6eS6gFAYqcJtkgoRTvVWHZG48p-VuZB2lxTN_k7BaEMRFtAG5ajayGwK64KWoaQTJFfSN5j3A427bEARwgxOTkFbfDiNp64goLogELr7m5dgaRsCdzqPKRqN46chjP0xNwn8MAj3AbP25fqgzMOR4pVGJg-3KLLhaGZN8EtL87yEmI3kfMLu8-OSUKW6SyUPMx_CIQHmNvrZ52TsZnPqUk8OjSVftbh9HiuNuzB_srmZBpMtQIXavjFdRmfpQebo96Js8PFwVOi4S3JSEYo9-76syOFFNIlJG8FMJQMgawzzYRw1czbXPF2XM0ST4x9OOvykiSTzyKVOijqZvKqGRJxzlxZelwQPUBirJoAtn_ZfWd0vD4f4buXBVKdJQBe5e-_NkZ5T52GqRAzOlUOJgGWdhgGLC-HjtTT5P0dJHMK2eYjVSOR5dbgi7L6xAV5GX0mYJ-J4z9nhj_vXPJleLOxb86XbczHua3b46P4Mmq9ajY0lNz-fRzBRzYtDn4D-7670cCAwEAAQ",
@@ -215,6 +215,20 @@
           "id": "studio-evt-nfl-401872933",
           "name": "FOX 5 Atlanta GA (WAGA) (288p)",
           "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-waga-lgus/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "eventId": "evt-nfl-401872946",
+      "begegnung": "New England Patriots — Pittsburgh Steelers",
+      "beginn": "2026-09-20T17:00:00Z",
+      "quelle": "aufsicht",
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401872946",
+          "name": "CBS Pittsburgh PA (KDKA) (180p)",
+          "url": "https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/master.m3u8"
         }
       ]
     },
@@ -612,6 +626,20 @@
       ]
     },
     {
+      "eventId": "evt-nfl-401872985",
+      "begegnung": "Pittsburgh Steelers — Indianapolis Colts",
+      "beginn": "2026-10-11T17:00:00Z",
+      "quelle": "aufsicht",
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401872985",
+          "name": "CBS Pittsburgh PA (KDKA) (180p)",
+          "url": "https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/master.m3u8"
+        }
+      ]
+    },
+    {
       "eventId": "evt-nfl-401872983",
       "begegnung": "New York Jets — Cleveland Browns",
       "beginn": "2026-10-11T17:00:00Z",
@@ -776,6 +804,20 @@
           "id": "studio-evt-nfl-401872997",
           "name": "FOX 45 Baltimore MD (WBFF) (1080p)",
           "url": "https://linear-688.frequency.stream/dist/stirr/688/hls/master/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "eventId": "evt-nfl-401873002",
+      "begegnung": "Tampa Bay Buccaneers — Pittsburgh Steelers",
+      "beginn": "2026-10-18T17:00:00Z",
+      "quelle": "aufsicht",
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873002",
+          "name": "CBS Pittsburgh PA (KDKA) (180p)",
+          "url": "https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/master.m3u8"
         }
       ]
     },
@@ -1484,6 +1526,20 @@
       ]
     },
     {
+      "eventId": "evt-nfl-401873076",
+      "begegnung": "Philadelphia Eagles — Pittsburgh Steelers",
+      "beginn": "2026-11-22T21:25:00Z",
+      "quelle": "aufsicht",
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873076",
+          "name": "CBS Pittsburgh PA (KDKA) (180p)",
+          "url": "https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/master.m3u8"
+        }
+      ]
+    },
+    {
       "eventId": "evt-nfl-401873077",
       "begegnung": "San Francisco 49ers — Minnesota Vikings",
       "beginn": "2026-11-23T01:20:00Z",
@@ -1986,6 +2042,20 @@
           "id": "studio-evt-nfl-401873133",
           "name": "FOX 11 Green Bay WI (WLUK) (1080p)",
           "url": "https://linear-702.frequency.stream/dist/stirr/702/hls/master/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "eventId": "evt-nfl-401873128",
+      "begegnung": "Pittsburgh Steelers — Baltimore Ravens",
+      "beginn": "2026-12-20T18:00:00Z",
+      "quelle": "aufsicht",
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873128",
+          "name": "CBS Pittsburgh PA (KDKA) (180p)",
+          "url": "https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/master.m3u8"
         }
       ]
     },
