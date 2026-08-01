@@ -1,5 +1,5 @@
 {
-  "erzeugtAm": "2026-08-01T05:05:54.532Z",
+  "erzeugtAm": "2026-08-01T05:35:14.567Z",
   "kategorien": [],
   "meldeUrl": "https://nexa-meldestelle.kellermayererich.workers.dev",
   "meldeSchluessel": "MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEA008tSHivku4Xhpt8xFrPOK2Igar7tsBHQyORJ6vlRdxlluTfnfhme5s16Xt772UtHJObM5Gq-8paUrmZl1sLWUySI2EjbC1AF5Uh4OSybWigeA1IWVp2sc4PgNI74wAnpkkneYXLwq-ctQh7og5tCRuotX9WOKuJM27mIh6eS6gFAYqcJtkgoRTvVWHZG48p-VuZB2lxTN_k7BaEMRFtAG5ajayGwK64KWoaQTJFfSN5j3A427bEARwgxOTkFbfDiNp64goLogELr7m5dgaRsCdzqPKRqN46chjP0xNwn8MAj3AbP25fqgzMOR4pVGJg-3KLLhaGZN8EtL87yEmI3kfMLu8-OSUKW6SyUPMx_CIQHmNvrZ52TsZnPqUk8OjSVftbh9HiuNuzB_srmZBpMtQIXavjFdRmfpQebo96Js8PFwVOi4S3JSEYo9-76syOFFNIlJG8FMJQMgawzzYRw1czbXPF2XM0ST4x9OOvykiSTzyKVOijqZvKqGRJxzlxZelwQPUBirJoAtn_ZfWd0vD4f4buXBVKdJQBe5e-_NkZ5T52GqRAzOlUOJgGWdhgGLC-HjtTT5P0dJHMK2eYjVSOR5dbgi7L6xAV5GX0mYJ-J4z9nhj_vXPJleLOxb86XbczHua3b46P4Mmq9ajY0lNz-fRzBRzYtDn4D-7670cCAwEAAQ",
@@ -74,6 +74,20 @@
           "id": "studio-evt-nfl-401872924",
           "name": "CBS 2 New York NY (WCBS) (1080p)",
           "url": "http://206.212.244.63/32/index.m3u8"
+        }
+      ]
+    },
+    {
+      "eventId": "evt-nfl-401872658",
+      "begegnung": "Pittsburgh Steelers — Atlanta Falcons",
+      "beginn": "2026-09-13T17:00:00Z",
+      "quelle": "aufsicht",
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401872658",
+          "name": "FOX 5 Atlanta GA (WAGA) (288p)",
+          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-waga-lgus/playlist.m3u8"
         }
       ]
     },
@@ -187,6 +201,20 @@
           "id": "studio-evt-nfl-401872936",
           "name": "FOX 11 Green Bay WI (WLUK) (1080p)",
           "url": "https://linear-702.frequency.stream/dist/stirr/702/hls/master/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "eventId": "evt-nfl-401872933",
+      "begegnung": "Atlanta Falcons — Carolina Panthers",
+      "beginn": "2026-09-20T17:00:00Z",
+      "quelle": "aufsicht",
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401872933",
+          "name": "FOX 5 Atlanta GA (WAGA) (288p)",
+          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-waga-lgus/playlist.m3u8"
         }
       ]
     },
@@ -1301,6 +1329,21 @@
       ]
     },
     {
+      "eventId": "evt-nfl-401873058",
+      "begegnung": "Atlanta Falcons — Kansas City Chiefs",
+      "beginn": "2026-11-15T18:00:00Z",
+      "quelle": "aufsicht",
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873058",
+          "name": "CBS Atlanta GA (WANF) (216p)",
+          "url": "https://jmp2.uk/rok-1672824c4fd55e5dbfcb57f147910270.m3u8",
+          "userAgent": "rokuandroid"
+        }
+      ]
+    },
+    {
       "eventId": "evt-nfl-401873054",
       "begegnung": "New York Jets — Buffalo Bills",
       "beginn": "2026-11-15T18:00:00Z",
@@ -1661,6 +1704,21 @@
           "id": "studio-evt-nfl-401873100",
           "name": "FOX Chicago IL (WFLD) (216p)",
           "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wfld-lgus/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "eventId": "evt-nfl-401873098",
+      "begegnung": "Atlanta Falcons — Detroit Lions",
+      "beginn": "2026-12-06T18:00:00Z",
+      "quelle": "aufsicht",
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873098",
+          "name": "CBS Atlanta GA (WANF) (216p)",
+          "url": "https://jmp2.uk/rok-1672824c4fd55e5dbfcb57f147910270.m3u8",
+          "userAgent": "rokuandroid"
         }
       ]
     },
