@@ -1,5 +1,5 @@
 {
-  "erzeugtAm": "2026-08-01T04:08:05.897Z",
+  "erzeugtAm": "2026-08-01T05:05:54.532Z",
   "kategorien": [],
   "meldeUrl": "https://nexa-meldestelle.kellermayererich.workers.dev",
   "meldeSchluessel": "MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEA008tSHivku4Xhpt8xFrPOK2Igar7tsBHQyORJ6vlRdxlluTfnfhme5s16Xt772UtHJObM5Gq-8paUrmZl1sLWUySI2EjbC1AF5Uh4OSybWigeA1IWVp2sc4PgNI74wAnpkkneYXLwq-ctQh7og5tCRuotX9WOKuJM27mIh6eS6gFAYqcJtkgoRTvVWHZG48p-VuZB2lxTN_k7BaEMRFtAG5ajayGwK64KWoaQTJFfSN5j3A427bEARwgxOTkFbfDiNp64goLogELr7m5dgaRsCdzqPKRqN46chjP0xNwn8MAj3AbP25fqgzMOR4pVGJg-3KLLhaGZN8EtL87yEmI3kfMLu8-OSUKW6SyUPMx_CIQHmNvrZ52TsZnPqUk8OjSVftbh9HiuNuzB_srmZBpMtQIXavjFdRmfpQebo96Js8PFwVOi4S3JSEYo9-76syOFFNIlJG8FMJQMgawzzYRw1czbXPF2XM0ST4x9OOvykiSTzyKVOijqZvKqGRJxzlxZelwQPUBirJoAtn_ZfWd0vD4f4buXBVKdJQBe5e-_NkZ5T52GqRAzOlUOJgGWdhgGLC-HjtTT5P0dJHMK2eYjVSOR5dbgi7L6xAV5GX0mYJ-J4z9nhj_vXPJleLOxb86XbczHua3b46P4Mmq9ajY0lNz-fRzBRzYtDn4D-7670cCAwEAAQ",
@@ -74,6 +74,21 @@
           "id": "studio-evt-nfl-401872924",
           "name": "CBS 2 New York NY (WCBS) (1080p)",
           "url": "http://206.212.244.63/32/index.m3u8"
+        }
+      ]
+    },
+    {
+      "eventId": "evt-nfl-401872922",
+      "begegnung": "Jacksonville Jaguars — Cleveland Browns",
+      "beginn": "2026-09-13T17:00:00Z",
+      "quelle": "aufsicht",
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401872922",
+          "name": "CBS 19 Cleveland OH (WOIO) (216p)",
+          "url": "https://jmp2.uk/rok-d0d9af56b7735c318b66afe21089d028.m3u8",
+          "userAgent": "rokuandroid"
         }
       ]
     },
@@ -172,6 +187,21 @@
           "id": "studio-evt-nfl-401872936",
           "name": "FOX 11 Green Bay WI (WLUK) (1080p)",
           "url": "https://linear-702.frequency.stream/dist/stirr/702/hls/master/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "eventId": "evt-nfl-401872935",
+      "begegnung": "Tampa Bay Buccaneers — Cleveland Browns",
+      "beginn": "2026-09-20T17:00:00Z",
+      "quelle": "aufsicht",
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401872935",
+          "name": "CBS 19 Cleveland OH (WOIO) (216p)",
+          "url": "https://jmp2.uk/rok-d0d9af56b7735c318b66afe21089d028.m3u8",
+          "userAgent": "rokuandroid"
         }
       ]
     },
@@ -456,6 +486,20 @@
       ]
     },
     {
+      "eventId": "evt-nfl-401872973",
+      "begegnung": "Baltimore Ravens — Tennessee Titans",
+      "beginn": "2026-10-04T17:00:00Z",
+      "quelle": "aufsicht",
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401872973",
+          "name": "CBS Nashville TN (WTVF) (720p)",
+          "url": "https://content.uplynk.com/channel/0d3d579b1d0948878a17dcb7eca85021.m3u8"
+        }
+      ]
+    },
+    {
       "eventId": "evt-nfl-401872966",
       "begegnung": "New York Giants — Arizona Cardinals",
       "beginn": "2026-10-04T17:00:00Z",
@@ -564,6 +608,20 @@
           "id": "studio-evt-nfl-401872988",
           "name": "FOX New York NY (WNYW) (288p)",
           "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "eventId": "evt-nfl-401872984",
+      "begegnung": "Tennessee Titans — Houston Texans",
+      "beginn": "2026-10-11T17:00:00Z",
+      "quelle": "aufsicht",
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401872984",
+          "name": "CBS Nashville TN (WTVF) (720p)",
+          "url": "https://content.uplynk.com/channel/0d3d579b1d0948878a17dcb7eca85021.m3u8"
         }
       ]
     },
@@ -834,6 +892,21 @@
       ]
     },
     {
+      "eventId": "evt-nfl-401873013",
+      "begegnung": "Tennessee Titans — Cleveland Browns",
+      "beginn": "2026-10-25T17:00:00Z",
+      "quelle": "aufsicht",
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873013",
+          "name": "CBS 19 Cleveland OH (WOIO) (216p)",
+          "url": "https://jmp2.uk/rok-d0d9af56b7735c318b66afe21089d028.m3u8",
+          "userAgent": "rokuandroid"
+        }
+      ]
+    },
+    {
       "eventId": "evt-nfl-401873018",
       "begegnung": "Carolina Panthers — Tampa Bay Buccaneers",
       "beginn": "2026-10-25T17:00:00Z",
@@ -942,6 +1015,21 @@
           "id": "studio-evt-nfl-401873030",
           "name": "FOX Detroit MI (WJBK) (216p)",
           "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox2detroitwjbk-vizious/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "eventId": "evt-nfl-401873027",
+      "begegnung": "Pittsburgh Steelers — Cleveland Browns",
+      "beginn": "2026-11-01T18:00:00Z",
+      "quelle": "aufsicht",
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873027",
+          "name": "CBS 19 Cleveland OH (WOIO) (216p)",
+          "url": "https://jmp2.uk/rok-d0d9af56b7735c318b66afe21089d028.m3u8",
+          "userAgent": "rokuandroid"
         }
       ]
     },
@@ -1110,6 +1198,21 @@
           "id": "studio-evt-nfl-401873043",
           "name": "FOX Los Angeles CA (KTTV) (216p)",
           "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox11losangeleskttv-vizious/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "eventId": "evt-nfl-401873039",
+      "begegnung": "New Orleans Saints — Cleveland Browns",
+      "beginn": "2026-11-08T18:00:00Z",
+      "quelle": "aufsicht",
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873039",
+          "name": "CBS 19 Cleveland OH (WOIO) (216p)",
+          "url": "https://jmp2.uk/rok-d0d9af56b7735c318b66afe21089d028.m3u8",
+          "userAgent": "rokuandroid"
         }
       ]
     },
@@ -1436,6 +1539,20 @@
       ]
     },
     {
+      "eventId": "evt-nfl-401873090",
+      "begegnung": "Jacksonville Jaguars — Tennessee Titans",
+      "beginn": "2026-11-29T21:05:00Z",
+      "quelle": "aufsicht",
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873090",
+          "name": "CBS Nashville TN (WTVF) (720p)",
+          "url": "https://content.uplynk.com/channel/0d3d579b1d0948878a17dcb7eca85021.m3u8"
+        }
+      ]
+    },
+    {
       "eventId": "evt-nfl-401873091",
       "begegnung": "San Francisco 49ers — Seattle Seahawks",
       "beginn": "2026-11-29T21:25:00Z",
@@ -1548,6 +1665,20 @@
       ]
     },
     {
+      "eventId": "evt-nfl-401873102",
+      "begegnung": "Tennessee Titans — Washington Commanders",
+      "beginn": "2026-12-06T18:00:00Z",
+      "quelle": "aufsicht",
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873102",
+          "name": "CBS Nashville TN (WTVF) (720p)",
+          "url": "https://content.uplynk.com/channel/0d3d579b1d0948878a17dcb7eca85021.m3u8"
+        }
+      ]
+    },
+    {
       "eventId": "evt-nfl-401873104",
       "begegnung": "Arizona Cardinals — Philadelphia Eagles",
       "beginn": "2026-12-06T21:05:00Z",
@@ -1558,6 +1689,20 @@
           "id": "studio-evt-nfl-401873104",
           "name": "FOX Philadelphia PA (WTXF) (216p)",
           "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "eventId": "evt-nfl-401873103",
+      "begegnung": "Denver Broncos — Miami Dolphins",
+      "beginn": "2026-12-06T21:05:00Z",
+      "quelle": "aufsicht",
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873103",
+          "name": "FOX 31 Denver CO (KDVR) (576p)",
+          "url": "http://stream.cammonitorplus.net/1768/index.m3u8"
         }
       ]
     },
@@ -1660,6 +1805,21 @@
       ]
     },
     {
+      "eventId": "evt-nfl-401873110",
+      "begegnung": "Cleveland Browns — Atlanta Falcons",
+      "beginn": "2026-12-13T18:00:00Z",
+      "quelle": "aufsicht",
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873110",
+          "name": "CBS 19 Cleveland OH (WOIO) (216p)",
+          "url": "https://jmp2.uk/rok-d0d9af56b7735c318b66afe21089d028.m3u8",
+          "userAgent": "rokuandroid"
+        }
+      ]
+    },
+    {
       "eventId": "evt-nfl-401873115",
       "begegnung": "Carolina Panthers — New Orleans Saints",
       "beginn": "2026-12-13T18:00:00Z",
@@ -1684,6 +1844,20 @@
           "id": "studio-evt-nfl-401873120",
           "name": "FOX 2 San Francisco CA (KTVU) (720p)",
           "url": "https://aegis-cloudfront-1.tubi.video/8d9284ec-c451-4e51-a1d4-d16e5c8972af/index.m3u8"
+        }
+      ]
+    },
+    {
+      "eventId": "evt-nfl-401873119",
+      "begegnung": "Cincinnati Bengals — Kansas City Chiefs",
+      "beginn": "2026-12-13T21:25:00Z",
+      "quelle": "aufsicht",
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873119",
+          "name": "FOX 4 Kansas City MO (WDAF) (480p)",
+          "url": "http://206.212.244.63/9/index.m3u8"
         }
       ]
     },
@@ -1800,6 +1974,20 @@
       ]
     },
     {
+      "eventId": "evt-nfl-401873131",
+      "begegnung": "Tennessee Titans — Indianapolis Colts",
+      "beginn": "2026-12-20T18:00:00Z",
+      "quelle": "aufsicht",
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873131",
+          "name": "CBS Nashville TN (WTVF) (720p)",
+          "url": "https://content.uplynk.com/channel/0d3d579b1d0948878a17dcb7eca85021.m3u8"
+        }
+      ]
+    },
+    {
       "eventId": "evt-nfl-401873135",
       "begegnung": "Arizona Cardinals — New York Jets",
       "beginn": "2026-12-20T21:05:00Z",
@@ -1866,6 +2054,21 @@
           "id": "studio-evt-nfl-401873151",
           "name": "CBS 2 New York NY (WCBS) (1080p)",
           "url": "http://206.212.244.63/32/index.m3u8"
+        }
+      ]
+    },
+    {
+      "eventId": "evt-nfl-401873149",
+      "begegnung": "Baltimore Ravens — Cleveland Browns",
+      "beginn": "2026-12-27T18:00:00Z",
+      "quelle": "aufsicht",
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873149",
+          "name": "CBS 19 Cleveland OH (WOIO) (216p)",
+          "url": "https://jmp2.uk/rok-d0d9af56b7735c318b66afe21089d028.m3u8",
+          "userAgent": "rokuandroid"
         }
       ]
     },
