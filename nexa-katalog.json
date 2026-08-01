@@ -1,5 +1,5 @@
 {
-  "erzeugtAm": "2026-07-31T18:33:03.302Z",
+  "erzeugtAm": "2026-08-01T01:46:50.629Z",
   "kategorien": [],
   "meldeUrl": "https://nexa-meldestelle.kellermayererich.workers.dev",
   "meldeSchluessel": "MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEA008tSHivku4Xhpt8xFrPOK2Igar7tsBHQyORJ6vlRdxlluTfnfhme5s16Xt772UtHJObM5Gq-8paUrmZl1sLWUySI2EjbC1AF5Uh4OSybWigeA1IWVp2sc4PgNI74wAnpkkneYXLwq-ctQh7og5tCRuotX9WOKuJM27mIh6eS6gFAYqcJtkgoRTvVWHZG48p-VuZB2lxTN_k7BaEMRFtAG5ajayGwK64KWoaQTJFfSN5j3A427bEARwgxOTkFbfDiNp64goLogELr7m5dgaRsCdzqPKRqN46chjP0xNwn8MAj3AbP25fqgzMOR4pVGJg-3KLLhaGZN8EtL87yEmI3kfMLu8-OSUKW6SyUPMx_CIQHmNvrZ52TsZnPqUk8OjSVftbh9HiuNuzB_srmZBpMtQIXavjFdRmfpQebo96Js8PFwVOi4S3JSEYo9-76syOFFNIlJG8FMJQMgawzzYRw1czbXPF2XM0ST4x9OOvykiSTzyKVOijqZvKqGRJxzlxZelwQPUBirJoAtn_ZfWd0vD4f4buXBVKdJQBe5e-_NkZ5T52GqRAzOlUOJgGWdhgGLC-HjtTT5P0dJHMK2eYjVSOR5dbgi7L6xAV5GX0mYJ-J4z9nhj_vXPJleLOxb86XbczHua3b46P4Mmq9ajY0lNz-fRzBRzYtDn4D-7670cCAwEAAQ",
@@ -8,1054 +8,1936 @@
   },
   "zuordnungen": [
     {
-      "spielId": "evt-nfl-401872656",
-      "espnId": "401872656",
+      "eventId": "evt-nfl-401872656",
       "begegnung": "Seattle Seahawks — New England Patriots",
       "beginn": "2026-09-10T00:20:00Z",
-      "name": "NBC (1080p)",
-      "adresse": "http://stream.cammonitorplus.net/1785/index.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.95
+      "sicherheit": 0.95,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401872656",
+          "name": "NBC (1080p)",
+          "url": "http://stream.cammonitorplus.net/1785/index.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401872925",
-      "espnId": "401872925",
+      "eventId": "evt-nfl-401872925",
       "begegnung": "Cincinnati Bengals — Tampa Bay Buccaneers",
       "beginn": "2026-09-13T17:00:00Z",
-      "name": "FOX Tampa FL (WTVT) (216p)",
-      "adresse": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox13tampabaywtvt-vizious/playlist.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.85
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401872925",
+          "name": "FOX Tampa FL (WTVT) (216p)",
+          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox13tampabaywtvt-vizious/playlist.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401872923",
-      "espnId": "401872923",
+      "eventId": "evt-nfl-401872923",
       "begegnung": "Detroit Lions — New Orleans Saints",
       "beginn": "2026-09-13T17:00:00Z",
-      "name": "FOX Detroit MI (WJBK) (216p)",
-      "adresse": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox2detroitwjbk-vizious/playlist.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.85
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401872923",
+          "name": "FOX Detroit MI (WJBK) (216p)",
+          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox2detroitwjbk-vizious/playlist.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401872661",
-      "espnId": "401872661",
+      "eventId": "evt-nfl-401872661",
       "begegnung": "Carolina Panthers — Chicago Bears",
       "beginn": "2026-09-13T17:00:00Z",
-      "name": "FOX Chicago IL (WFLD) (216p)",
-      "adresse": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wfld-lgus/playlist.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.85
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401872661",
+          "name": "FOX Chicago IL (WFLD) (216p)",
+          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wfld-lgus/playlist.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401872924",
-      "espnId": "401872924",
+      "eventId": "evt-nfl-401872924",
       "begegnung": "Tennessee Titans — New York Jets",
       "beginn": "2026-09-13T17:00:00Z",
-      "name": "CBS 2 New York NY (WCBS) (1080p)",
-      "adresse": "http://206.212.244.63/32/index.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.85
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401872924",
+          "name": "CBS 2 New York NY (WCBS) (1080p)",
+          "url": "http://206.212.244.63/32/index.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401872929",
-      "espnId": "401872929",
+      "eventId": "evt-nfl-401872929",
       "begegnung": "Philadelphia Eagles — Washington Commanders",
       "beginn": "2026-09-13T20:25:00Z",
-      "name": "FOX Philadelphia PA (WTXF) (216p)",
-      "adresse": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.85
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401872929",
+          "name": "FOX Philadelphia PA (WTXF) (216p)",
+          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401872930",
-      "espnId": "401872930",
+      "eventId": "evt-nfl-401872930",
       "begegnung": "New York Giants — Dallas Cowboys",
       "beginn": "2026-09-14T00:20:00Z",
-      "name": "NBC (1080p)",
-      "adresse": "http://stream.cammonitorplus.net/1785/index.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.95
+      "sicherheit": 0.95,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401872930",
+          "name": "NBC (1080p)",
+          "url": "http://stream.cammonitorplus.net/1785/index.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401872931",
-      "espnId": "401872931",
+      "eventId": "evt-nfl-401872931",
       "begegnung": "Kansas City Chiefs — Denver Broncos",
       "beginn": "2026-09-15T00:15:00Z",
-      "name": "ABC 7 Denver CO (KMGH) (720p)",
-      "adresse": "https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.95
+      "sicherheit": 0.95,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401872931",
+          "name": "ABC 7 Denver CO (KMGH) (720p)",
+          "url": "https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401872934",
-      "espnId": "401872934",
+      "eventId": "evt-nfl-401872934",
       "begegnung": "Houston Texans — Cincinnati Bengals",
       "beginn": "2026-09-20T17:00:00Z",
-      "name": "CBS 12 Cincinnati OH (WKRC) (1080p)",
-      "adresse": "https://linear-691.frequency.stream/dist/stirr/691/hls/master/playlist.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.85
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401872934",
+          "name": "CBS 12 Cincinnati OH (WKRC) (1080p)",
+          "url": "https://linear-691.frequency.stream/dist/stirr/691/hls/master/playlist.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401872937",
-      "espnId": "401872937",
+      "eventId": "evt-nfl-401872937",
       "begegnung": "Chicago Bears — Minnesota Vikings",
       "beginn": "2026-09-20T17:00:00Z",
-      "name": "FOX Chicago IL (WFLD) (216p)",
-      "adresse": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wfld-lgus/playlist.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.85
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401872937",
+          "name": "FOX Chicago IL (WFLD) (216p)",
+          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wfld-lgus/playlist.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401872939",
-      "espnId": "401872939",
+      "eventId": "evt-nfl-401872939",
       "begegnung": "Tennessee Titans — Philadelphia Eagles",
       "beginn": "2026-09-20T17:00:00Z",
-      "name": "FOX Philadelphia PA (WTXF) (216p)",
-      "adresse": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.85
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401872939",
+          "name": "FOX Philadelphia PA (WTXF) (216p)",
+          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401872936",
-      "espnId": "401872936",
+      "eventId": "evt-nfl-401872936",
       "begegnung": "New York Jets — Green Bay Packers",
       "beginn": "2026-09-20T17:00:00Z",
-      "name": "FOX 11 Green Bay WI (WLUK) (1080p)",
-      "adresse": "https://linear-702.frequency.stream/dist/stirr/702/hls/master/playlist.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.85
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401872936",
+          "name": "FOX 11 Green Bay WI (WLUK) (1080p)",
+          "url": "https://linear-702.frequency.stream/dist/stirr/702/hls/master/playlist.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401872944",
-      "espnId": "401872944",
+      "eventId": "evt-nfl-401872944",
       "begegnung": "Dallas Cowboys — Washington Commanders",
       "beginn": "2026-09-20T20:25:00Z",
-      "name": "FOX Dallas TX (KDFW) (216p)",
-      "adresse": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox4dallaskdfw-vizious/playlist.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.85
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401872944",
+          "name": "FOX Dallas TX (KDFW) (216p)",
+          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox4dallaskdfw-vizious/playlist.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401872943",
-      "espnId": "401872943",
+      "eventId": "evt-nfl-401872943",
       "begegnung": "Arizona Cardinals — Seattle Seahawks",
       "beginn": "2026-09-20T20:25:00Z",
-      "name": "FOX 13 Seattle WA (KCPQ) (720p)",
-      "adresse": "https://aegis-cloudfront-1.tubi.video/cc394198-7bde-43e8-b186-875bc0eb3037/index.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.85
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401872943",
+          "name": "FOX 13 Seattle WA (KCPQ) (720p)",
+          "url": "https://aegis-cloudfront-1.tubi.video/cc394198-7bde-43e8-b186-875bc0eb3037/index.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401872942",
-      "espnId": "401872942",
+      "eventId": "evt-nfl-401872942",
       "begegnung": "San Francisco 49ers — Miami Dolphins",
       "beginn": "2026-09-20T20:25:00Z",
-      "name": "FOX 2 San Francisco CA (KTVU) (720p)",
-      "adresse": "https://aegis-cloudfront-1.tubi.video/8d9284ec-c451-4e51-a1d4-d16e5c8972af/index.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.85
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401872942",
+          "name": "FOX 2 San Francisco CA (KTVU) (720p)",
+          "url": "https://aegis-cloudfront-1.tubi.video/8d9284ec-c451-4e51-a1d4-d16e5c8972af/index.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401872945",
-      "espnId": "401872945",
+      "eventId": "evt-nfl-401872945",
       "begegnung": "Kansas City Chiefs — Indianapolis Colts",
       "beginn": "2026-09-21T00:20:00Z",
-      "name": "NBC (1080p)",
-      "adresse": "http://stream.cammonitorplus.net/1785/index.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.95
+      "sicherheit": 0.95,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401872945",
+          "name": "NBC (1080p)",
+          "url": "http://stream.cammonitorplus.net/1785/index.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401872947",
-      "espnId": "401872947",
+      "eventId": "evt-nfl-401872947",
       "begegnung": "Los Angeles Rams — New York Giants",
       "beginn": "2026-09-22T00:15:00Z",
-      "name": "ABC 7 Denver CO (KMGH) (720p)",
-      "adresse": "https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.95
+      "sicherheit": 0.95,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401872947",
+          "name": "ABC 7 Denver CO (KMGH) (720p)",
+          "url": "https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401872953",
-      "espnId": "401872953",
+      "eventId": "evt-nfl-401872953",
       "begegnung": "Buffalo Bills — Los Angeles Chargers",
       "beginn": "2026-09-27T17:00:00Z",
-      "name": "FOX Los Angeles CA (KTTV) (216p)",
-      "adresse": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox11losangeleskttv-vizious/playlist.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.85
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401872953",
+          "name": "FOX Los Angeles CA (KTTV) (216p)",
+          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox11losangeleskttv-vizious/playlist.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401872954",
-      "espnId": "401872954",
+      "eventId": "evt-nfl-401872954",
       "begegnung": "Detroit Lions — New York Jets",
       "beginn": "2026-09-27T17:00:00Z",
-      "name": "FOX New York NY (WNYW) (288p)",
-      "adresse": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.85
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401872954",
+          "name": "FOX New York NY (WNYW) (288p)",
+          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401872956",
-      "espnId": "401872956",
+      "eventId": "evt-nfl-401872956",
       "begegnung": "New York Giants — Tennessee Titans",
       "beginn": "2026-09-27T17:00:00Z",
-      "name": "CBS 2 New York NY (WCBS) (1080p)",
-      "adresse": "http://206.212.244.63/32/index.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.85
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401872956",
+          "name": "CBS 2 New York NY (WCBS) (1080p)",
+          "url": "http://206.212.244.63/32/index.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401872950",
-      "espnId": "401872950",
+      "eventId": "evt-nfl-401872950",
       "begegnung": "Pittsburgh Steelers — Cincinnati Bengals",
       "beginn": "2026-09-27T17:00:00Z",
-      "name": "CBS 12 Cincinnati OH (WKRC) (1080p)",
-      "adresse": "https://linear-691.frequency.stream/dist/stirr/691/hls/master/playlist.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.85
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401872950",
+          "name": "CBS 12 Cincinnati OH (WKRC) (1080p)",
+          "url": "https://linear-691.frequency.stream/dist/stirr/691/hls/master/playlist.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401872955",
-      "espnId": "401872955",
+      "eventId": "evt-nfl-401872955",
       "begegnung": "Washington Commanders — Seattle Seahawks",
       "beginn": "2026-09-27T17:00:00Z",
-      "name": "FOX 13 Seattle WA (KCPQ) (720p)",
-      "adresse": "https://aegis-cloudfront-1.tubi.video/cc394198-7bde-43e8-b186-875bc0eb3037/index.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.85
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401872955",
+          "name": "FOX 13 Seattle WA (KCPQ) (720p)",
+          "url": "https://aegis-cloudfront-1.tubi.video/cc394198-7bde-43e8-b186-875bc0eb3037/index.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401872958",
-      "espnId": "401872958",
+      "eventId": "evt-nfl-401872958",
       "begegnung": "San Francisco 49ers — Arizona Cardinals",
       "beginn": "2026-09-27T20:05:00Z",
-      "name": "FOX 2 San Francisco CA (KTVU) (720p)",
-      "adresse": "https://aegis-cloudfront-1.tubi.video/8d9284ec-c451-4e51-a1d4-d16e5c8972af/index.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.85
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401872958",
+          "name": "FOX 2 San Francisco CA (KTVU) (720p)",
+          "url": "https://aegis-cloudfront-1.tubi.video/8d9284ec-c451-4e51-a1d4-d16e5c8972af/index.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401872959",
-      "espnId": "401872959",
+      "eventId": "evt-nfl-401872959",
       "begegnung": "Tampa Bay Buccaneers — Minnesota Vikings",
       "beginn": "2026-09-27T20:05:00Z",
-      "name": "FOX Tampa FL (WTVT) (216p)",
-      "adresse": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox13tampabaywtvt-vizious/playlist.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.85
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401872959",
+          "name": "FOX Tampa FL (WTVT) (216p)",
+          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox13tampabaywtvt-vizious/playlist.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401872962",
-      "espnId": "401872962",
+      "eventId": "evt-nfl-401872962",
       "begegnung": "Denver Broncos — Los Angeles Rams",
       "beginn": "2026-09-28T00:20:00Z",
-      "name": "NBC (1080p)",
-      "adresse": "http://stream.cammonitorplus.net/1785/index.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.95
+      "sicherheit": 0.95,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401872962",
+          "name": "NBC (1080p)",
+          "url": "http://stream.cammonitorplus.net/1785/index.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401872963",
-      "espnId": "401872963",
+      "eventId": "evt-nfl-401872963",
       "begegnung": "Chicago Bears — Philadelphia Eagles",
       "beginn": "2026-09-29T00:15:00Z",
-      "name": "ABC 7 Denver CO (KMGH) (720p)",
-      "adresse": "https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.95
+      "sicherheit": 0.95,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401872963",
+          "name": "ABC 7 Denver CO (KMGH) (720p)",
+          "url": "https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401872967",
-      "espnId": "401872967",
+      "eventId": "evt-nfl-401872965",
+      "begegnung": "Washington Commanders — Indianapolis Colts",
+      "beginn": "2026-10-04T13:30:00Z",
+      "quelle": "aufsicht",
+      "sicherheit": 0.95,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401872965",
+          "name": "NFL Network (720p)",
+          "url": "http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8"
+        }
+      ]
+    },
+    {
+      "eventId": "evt-nfl-401872967",
       "begegnung": "Houston Texans — Dallas Cowboys",
       "beginn": "2026-10-04T17:00:00Z",
-      "name": "FOX Dallas TX (KDFW) (216p)",
-      "adresse": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox4dallaskdfw-vizious/playlist.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.85
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401872967",
+          "name": "FOX Dallas TX (KDFW) (216p)",
+          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox4dallaskdfw-vizious/playlist.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401872968",
-      "espnId": "401872968",
+      "eventId": "evt-nfl-401872968",
       "begegnung": "Tampa Bay Buccaneers — Green Bay Packers",
       "beginn": "2026-10-04T17:00:00Z",
-      "name": "FOX 11 Green Bay WI (WLUK) (1080p)",
-      "adresse": "https://linear-702.frequency.stream/dist/stirr/702/hls/master/playlist.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.85
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401872968",
+          "name": "FOX 11 Green Bay WI (WLUK) (1080p)",
+          "url": "https://linear-702.frequency.stream/dist/stirr/702/hls/master/playlist.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401872970",
-      "espnId": "401872970",
+      "eventId": "evt-nfl-401872970",
       "begegnung": "Philadelphia Eagles — Los Angeles Rams",
       "beginn": "2026-10-04T17:00:00Z",
-      "name": "FOX Philadelphia PA (WTXF) (216p)",
-      "adresse": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.85
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401872970",
+          "name": "FOX Philadelphia PA (WTXF) (216p)",
+          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401872969",
-      "espnId": "401872969",
+      "eventId": "evt-nfl-401872969",
       "begegnung": "Cincinnati Bengals — Jacksonville Jaguars",
       "beginn": "2026-10-04T17:00:00Z",
-      "name": "CBS 12 Cincinnati OH (WKRC) (1080p)",
-      "adresse": "https://linear-691.frequency.stream/dist/stirr/691/hls/master/playlist.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.85
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401872969",
+          "name": "CBS 12 Cincinnati OH (WKRC) (1080p)",
+          "url": "https://linear-691.frequency.stream/dist/stirr/691/hls/master/playlist.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401872972",
-      "espnId": "401872972",
+      "eventId": "evt-nfl-401872972",
       "begegnung": "Chicago Bears — New York Jets",
       "beginn": "2026-10-04T17:00:00Z",
-      "name": "FOX Chicago IL (WFLD) (216p)",
-      "adresse": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wfld-lgus/playlist.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.85
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401872972",
+          "name": "FOX Chicago IL (WFLD) (216p)",
+          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wfld-lgus/playlist.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401872974",
-      "espnId": "401872974",
+      "eventId": "evt-nfl-401872966",
+      "begegnung": "New York Giants — Arizona Cardinals",
+      "beginn": "2026-10-04T17:00:00Z",
+      "quelle": "aufsicht",
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401872966",
+          "name": "CBS 2 New York NY (WCBS) (1080p)",
+          "url": "http://206.212.244.63/32/index.m3u8"
+        }
+      ]
+    },
+    {
+      "eventId": "evt-nfl-401872974",
       "begegnung": "Minnesota Vikings — Miami Dolphins",
       "beginn": "2026-10-04T20:05:00Z",
-      "name": "FOX Minneapolis MN (KMSP) (216p)",
-      "adresse": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-kmsp-lgus/playlist.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.85
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401872974",
+          "name": "FOX Minneapolis MN (KMSP) (216p)",
+          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-kmsp-lgus/playlist.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401872978",
-      "espnId": "401872978",
+      "eventId": "evt-nfl-401872978",
       "begegnung": "Carolina Panthers — Detroit Lions",
       "beginn": "2026-10-05T00:20:00Z",
-      "name": "NBC (1080p)",
-      "adresse": "http://stream.cammonitorplus.net/1785/index.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.95
+      "sicherheit": 0.95,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401872978",
+          "name": "NBC (1080p)",
+          "url": "http://stream.cammonitorplus.net/1785/index.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401872981",
-      "espnId": "401872981",
+      "eventId": "evt-nfl-401872979",
+      "begegnung": "New Orleans Saints — Atlanta Falcons",
+      "beginn": "2026-10-06T00:15:00Z",
+      "quelle": "aufsicht",
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401872979",
+          "name": "ABC 7 Denver CO (KMGH) (720p)",
+          "url": "https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8"
+        }
+      ]
+    },
+    {
+      "eventId": "evt-nfl-401872981",
       "begegnung": "Jacksonville Jaguars — Philadelphia Eagles",
       "beginn": "2026-10-11T13:30:00Z",
-      "name": "NFL Network (720p)",
-      "adresse": "http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.95
+      "sicherheit": 0.95,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401872981",
+          "name": "NFL Network (720p)",
+          "url": "http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401872987",
-      "espnId": "401872987",
+      "eventId": "evt-nfl-401872987",
       "begegnung": "New Orleans Saints — Minnesota Vikings",
       "beginn": "2026-10-11T17:00:00Z",
-      "name": "FOX Minneapolis MN (KMSP) (216p)",
-      "adresse": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-kmsp-lgus/playlist.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.85
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401872987",
+          "name": "FOX Minneapolis MN (KMSP) (216p)",
+          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-kmsp-lgus/playlist.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401872990",
-      "espnId": "401872990",
+      "eventId": "evt-nfl-401872983",
+      "begegnung": "New York Jets — Cleveland Browns",
+      "beginn": "2026-10-11T17:00:00Z",
+      "quelle": "aufsicht",
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401872983",
+          "name": "CBS 2 New York NY (WCBS) (1080p)",
+          "url": "http://206.212.244.63/32/index.m3u8"
+        }
+      ]
+    },
+    {
+      "eventId": "evt-nfl-401872988",
+      "begegnung": "Washington Commanders — New York Giants",
+      "beginn": "2026-10-11T17:00:00Z",
+      "quelle": "aufsicht",
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401872988",
+          "name": "FOX New York NY (WNYW) (288p)",
+          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "eventId": "evt-nfl-401872990",
       "begegnung": "Green Bay Packers — Chicago Bears",
       "beginn": "2026-10-11T20:25:00Z",
-      "name": "FOX 11 Green Bay WI (WLUK) (1080p)",
-      "adresse": "https://linear-702.frequency.stream/dist/stirr/702/hls/master/playlist.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.85
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401872990",
+          "name": "FOX 11 Green Bay WI (WLUK) (1080p)",
+          "url": "https://linear-702.frequency.stream/dist/stirr/702/hls/master/playlist.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401872992",
-      "espnId": "401872992",
+      "eventId": "evt-nfl-401872992",
       "begegnung": "Seattle Seahawks — San Francisco 49ers",
       "beginn": "2026-10-11T20:25:00Z",
-      "name": "FOX 2 San Francisco CA (KTVU) (720p)",
-      "adresse": "https://aegis-cloudfront-1.tubi.video/8d9284ec-c451-4e51-a1d4-d16e5c8972af/index.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.85
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401872992",
+          "name": "FOX 2 San Francisco CA (KTVU) (720p)",
+          "url": "https://aegis-cloudfront-1.tubi.video/8d9284ec-c451-4e51-a1d4-d16e5c8972af/index.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401872993",
-      "espnId": "401872993",
+      "eventId": "evt-nfl-401872991",
+      "begegnung": "Arizona Cardinals — Detroit Lions",
+      "beginn": "2026-10-11T20:25:00Z",
+      "quelle": "aufsicht",
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401872991",
+          "name": "FOX Detroit MI (WJBK) (216p)",
+          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox2detroitwjbk-vizious/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "eventId": "evt-nfl-401872993",
       "begegnung": "Atlanta Falcons — Baltimore Ravens",
       "beginn": "2026-10-12T00:20:00Z",
-      "name": "NBC (1080p)",
-      "adresse": "http://stream.cammonitorplus.net/1785/index.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.95
+      "sicherheit": 0.95,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401872993",
+          "name": "NBC (1080p)",
+          "url": "http://stream.cammonitorplus.net/1785/index.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401872994",
-      "espnId": "401872994",
+      "eventId": "evt-nfl-401872994",
       "begegnung": "Los Angeles Rams — Buffalo Bills",
       "beginn": "2026-10-13T00:15:00Z",
-      "name": "ABC 7 Denver CO (KMGH) (720p)",
-      "adresse": "https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.95
+      "sicherheit": 0.95,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401872994",
+          "name": "ABC 7 Denver CO (KMGH) (720p)",
+          "url": "https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401872998",
-      "espnId": "401872998",
+      "eventId": "evt-nfl-401872996",
+      "begegnung": "Jacksonville Jaguars — Houston Texans",
+      "beginn": "2026-10-18T13:30:00Z",
+      "quelle": "aufsicht",
+      "sicherheit": 0.95,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401872996",
+          "name": "NFL Network (720p)",
+          "url": "http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8"
+        }
+      ]
+    },
+    {
+      "eventId": "evt-nfl-401872998",
       "begegnung": "Philadelphia Eagles — Carolina Panthers",
       "beginn": "2026-10-18T17:00:00Z",
-      "name": "CBS Charlotte NC (WBTV) (270p)",
-      "adresse": "https://d2ugl2g2gz1giy.cloudfront.net/index.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.85
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401872998",
+          "name": "CBS Charlotte NC (WBTV) (270p)",
+          "url": "https://d2ugl2g2gz1giy.cloudfront.net/index.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401872999",
-      "espnId": "401872999",
+      "eventId": "evt-nfl-401872999",
       "begegnung": "Atlanta Falcons — Chicago Bears",
       "beginn": "2026-10-18T17:00:00Z",
-      "name": "FOX Chicago IL (WFLD) (216p)",
-      "adresse": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wfld-lgus/playlist.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.85
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401872999",
+          "name": "FOX Chicago IL (WFLD) (216p)",
+          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wfld-lgus/playlist.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401872997",
-      "espnId": "401872997",
+      "eventId": "evt-nfl-401872997",
       "begegnung": "Cleveland Browns — Baltimore Ravens",
       "beginn": "2026-10-18T17:00:00Z",
-      "name": "FOX 45 Baltimore MD (WBFF) (1080p)",
-      "adresse": "https://linear-688.frequency.stream/dist/stirr/688/hls/master/playlist.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.85
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401872997",
+          "name": "FOX 45 Baltimore MD (WBFF) (1080p)",
+          "url": "https://linear-688.frequency.stream/dist/stirr/688/hls/master/playlist.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401873001",
-      "espnId": "401873001",
+      "eventId": "evt-nfl-401873001",
       "begegnung": "New England Patriots — New York Jets",
       "beginn": "2026-10-18T17:00:00Z",
-      "name": "CBS 2 New York NY (WCBS) (1080p)",
-      "adresse": "http://206.212.244.63/32/index.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.85
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873001",
+          "name": "CBS 2 New York NY (WCBS) (1080p)",
+          "url": "http://206.212.244.63/32/index.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401873007",
-      "espnId": "401873007",
+      "eventId": "evt-nfl-401873000",
+      "begegnung": "New York Giants — New Orleans Saints",
+      "beginn": "2026-10-18T17:00:00Z",
+      "quelle": "aufsicht",
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873000",
+          "name": "FOX New York NY (WNYW) (288p)",
+          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "eventId": "evt-nfl-401873004",
+      "begegnung": "Los Angeles Rams — Arizona Cardinals",
+      "beginn": "2026-10-18T20:05:00Z",
+      "quelle": "aufsicht",
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873004",
+          "name": "FOX Los Angeles CA (KTTV) (216p)",
+          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox11losangeleskttv-vizious/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "eventId": "evt-nfl-401873007",
       "begegnung": "Green Bay Packers — Dallas Cowboys",
       "beginn": "2026-10-19T00:20:00Z",
-      "name": "NBC (1080p)",
-      "adresse": "http://stream.cammonitorplus.net/1785/index.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.95
+      "sicherheit": 0.95,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873007",
+          "name": "NBC (1080p)",
+          "url": "http://stream.cammonitorplus.net/1785/index.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401873008",
-      "espnId": "401873008",
+      "eventId": "evt-nfl-401873008",
       "begegnung": "San Francisco 49ers — Washington Commanders",
       "beginn": "2026-10-20T00:15:00Z",
-      "name": "ABC 7 Denver CO (KMGH) (720p)",
-      "adresse": "https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.95
+      "sicherheit": 0.95,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873008",
+          "name": "ABC 7 Denver CO (KMGH) (720p)",
+          "url": "https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401873011",
-      "espnId": "401873011",
+      "eventId": "evt-nfl-401873011",
       "begegnung": "New Orleans Saints — Pittsburgh Steelers",
       "beginn": "2026-10-25T13:30:00Z",
-      "name": "NFL Network (720p)",
-      "adresse": "http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.95
+      "sicherheit": 0.95,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873011",
+          "name": "NFL Network (720p)",
+          "url": "http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401873017",
-      "espnId": "401873017",
+      "eventId": "evt-nfl-401873017",
       "begegnung": "Atlanta Falcons — San Francisco 49ers",
       "beginn": "2026-10-25T17:00:00Z",
-      "name": "FOX 2 San Francisco CA (KTVU) (720p)",
-      "adresse": "https://aegis-cloudfront-1.tubi.video/8d9284ec-c451-4e51-a1d4-d16e5c8972af/index.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.85
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873017",
+          "name": "FOX 2 San Francisco CA (KTVU) (720p)",
+          "url": "https://aegis-cloudfront-1.tubi.video/8d9284ec-c451-4e51-a1d4-d16e5c8972af/index.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401873012",
-      "espnId": "401873012",
+      "eventId": "evt-nfl-401873012",
       "begegnung": "Baltimore Ravens — Cincinnati Bengals",
       "beginn": "2026-10-25T17:00:00Z",
-      "name": "CBS 12 Cincinnati OH (WKRC) (1080p)",
-      "adresse": "https://linear-691.frequency.stream/dist/stirr/691/hls/master/playlist.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.85
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873012",
+          "name": "CBS 12 Cincinnati OH (WKRC) (1080p)",
+          "url": "https://linear-691.frequency.stream/dist/stirr/691/hls/master/playlist.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401873015",
-      "espnId": "401873015",
+      "eventId": "evt-nfl-401873015",
       "begegnung": "New York Jets — Miami Dolphins",
       "beginn": "2026-10-25T17:00:00Z",
-      "name": "CBS 2 New York NY (WCBS) (1080p)",
-      "adresse": "http://206.212.244.63/32/index.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.85
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873015",
+          "name": "CBS 2 New York NY (WCBS) (1080p)",
+          "url": "http://206.212.244.63/32/index.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401873020",
-      "espnId": "401873020",
+      "eventId": "evt-nfl-401873016",
+      "begegnung": "Houston Texans — New York Giants",
+      "beginn": "2026-10-25T17:00:00Z",
+      "quelle": "aufsicht",
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873016",
+          "name": "FOX New York NY (WNYW) (288p)",
+          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "eventId": "evt-nfl-401873018",
+      "begegnung": "Carolina Panthers — Tampa Bay Buccaneers",
+      "beginn": "2026-10-25T17:00:00Z",
+      "quelle": "aufsicht",
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873018",
+          "name": "FOX Tampa FL (WTVT) (216p)",
+          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox13tampabaywtvt-vizious/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "eventId": "evt-nfl-401873020",
       "begegnung": "Detroit Lions — Green Bay Packers",
       "beginn": "2026-10-25T20:25:00Z",
-      "name": "FOX 11 Green Bay WI (WLUK) (1080p)",
-      "adresse": "https://linear-702.frequency.stream/dist/stirr/702/hls/master/playlist.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.85
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873020",
+          "name": "FOX 11 Green Bay WI (WLUK) (1080p)",
+          "url": "https://linear-702.frequency.stream/dist/stirr/702/hls/master/playlist.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401873021",
-      "espnId": "401873021",
+      "eventId": "evt-nfl-401873021",
       "begegnung": "Las Vegas Raiders — Los Angeles Rams",
       "beginn": "2026-10-25T20:25:00Z",
-      "name": "FOX Los Angeles CA (KTTV) (216p)",
-      "adresse": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox11losangeleskttv-vizious/playlist.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.85
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873021",
+          "name": "FOX Los Angeles CA (KTTV) (216p)",
+          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox11losangeleskttv-vizious/playlist.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401873022",
-      "espnId": "401873022",
+      "eventId": "evt-nfl-401873022",
       "begegnung": "Seattle Seahawks — Kansas City Chiefs",
       "beginn": "2026-10-26T00:20:00Z",
-      "name": "NBC (1080p)",
-      "adresse": "http://stream.cammonitorplus.net/1785/index.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.95
+      "sicherheit": 0.95,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873022",
+          "name": "NBC (1080p)",
+          "url": "http://stream.cammonitorplus.net/1785/index.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401873009",
-      "espnId": "401873009",
+      "eventId": "evt-nfl-401873009",
       "begegnung": "Philadelphia Eagles — Dallas Cowboys",
       "beginn": "2026-10-27T00:15:00Z",
-      "name": "ABC 7 Denver CO (KMGH) (720p)",
-      "adresse": "https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.95
+      "sicherheit": 0.95,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873009",
+          "name": "ABC 7 Denver CO (KMGH) (720p)",
+          "url": "https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401873024",
-      "espnId": "401873024",
+      "eventId": "evt-nfl-401873024",
       "begegnung": "Dallas Cowboys — Arizona Cardinals",
       "beginn": "2026-11-01T18:00:00Z",
-      "name": "FOX Dallas TX (KDFW) (216p)",
-      "adresse": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox4dallaskdfw-vizious/playlist.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.85
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873024",
+          "name": "FOX Dallas TX (KDFW) (216p)",
+          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox4dallaskdfw-vizious/playlist.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401873031",
-      "espnId": "401873031",
+      "eventId": "evt-nfl-401873031",
       "begegnung": "Cincinnati Bengals — Tennessee Titans",
       "beginn": "2026-11-01T18:00:00Z",
-      "name": "CBS 12 Cincinnati OH (WKRC) (1080p)",
-      "adresse": "https://linear-691.frequency.stream/dist/stirr/691/hls/master/playlist.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.85
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873031",
+          "name": "CBS 12 Cincinnati OH (WKRC) (1080p)",
+          "url": "https://linear-691.frequency.stream/dist/stirr/691/hls/master/playlist.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401873030",
-      "espnId": "401873030",
+      "eventId": "evt-nfl-401873030",
       "begegnung": "Detroit Lions — Minnesota Vikings",
       "beginn": "2026-11-01T18:00:00Z",
-      "name": "FOX Detroit MI (WJBK) (216p)",
-      "adresse": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox2detroitwjbk-vizious/playlist.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.85
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873030",
+          "name": "FOX Detroit MI (WJBK) (216p)",
+          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox2detroitwjbk-vizious/playlist.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401873032",
-      "espnId": "401873032",
+      "eventId": "evt-nfl-401873029",
+      "begegnung": "New York Jets — Las Vegas Raiders",
+      "beginn": "2026-11-01T18:00:00Z",
+      "quelle": "aufsicht",
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873029",
+          "name": "FOX New York NY (WNYW) (288p)",
+          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "eventId": "evt-nfl-401873025",
+      "begegnung": "Tampa Bay Buccaneers — Atlanta Falcons",
+      "beginn": "2026-11-01T18:00:00Z",
+      "quelle": "aufsicht",
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873025",
+          "name": "FOX Tampa FL (WTVT) (216p)",
+          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox13tampabaywtvt-vizious/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "eventId": "evt-nfl-401873032",
       "begegnung": "Los Angeles Rams — Los Angeles Chargers",
       "beginn": "2026-11-01T21:05:00Z",
-      "name": "FOX Los Angeles CA (KTTV) (216p)",
-      "adresse": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox11losangeleskttv-vizious/playlist.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.85
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873032",
+          "name": "FOX Los Angeles CA (KTTV) (216p)",
+          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox11losangeleskttv-vizious/playlist.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401873035",
-      "espnId": "401873035",
+      "eventId": "evt-nfl-401873035",
       "begegnung": "Washington Commanders — Philadelphia Eagles",
       "beginn": "2026-11-02T01:20:00Z",
-      "name": "NBC (1080p)",
-      "adresse": "http://stream.cammonitorplus.net/1785/index.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.95
+      "sicherheit": 0.95,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873035",
+          "name": "NBC (1080p)",
+          "url": "http://stream.cammonitorplus.net/1785/index.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401873036",
-      "espnId": "401873036",
+      "eventId": "evt-nfl-401873036",
       "begegnung": "Seattle Seahawks — Chicago Bears",
       "beginn": "2026-11-03T01:15:00Z",
-      "name": "ABC 7 Denver CO (KMGH) (720p)",
-      "adresse": "https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.85
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873036",
+          "name": "ABC 7 Denver CO (KMGH) (720p)",
+          "url": "https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401873038",
-      "espnId": "401873038",
+      "eventId": "evt-nfl-401873038",
       "begegnung": "Atlanta Falcons — Cincinnati Bengals",
       "beginn": "2026-11-08T14:30:00Z",
-      "name": "NFL Network (720p)",
-      "adresse": "http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.95
+      "sicherheit": 0.95,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873038",
+          "name": "NFL Network (720p)",
+          "url": "http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401873040",
-      "espnId": "401873040",
+      "eventId": "evt-nfl-401873040",
       "begegnung": "Indianapolis Colts — Dallas Cowboys",
       "beginn": "2026-11-08T18:00:00Z",
-      "name": "FOX Dallas TX (KDFW) (216p)",
-      "adresse": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox4dallaskdfw-vizious/playlist.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.85
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873040",
+          "name": "FOX Dallas TX (KDFW) (216p)",
+          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox4dallaskdfw-vizious/playlist.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401873044",
-      "espnId": "401873044",
+      "eventId": "evt-nfl-401873044",
       "begegnung": "Philadelphia Eagles — New York Giants",
       "beginn": "2026-11-08T18:00:00Z",
-      "name": "FOX Philadelphia PA (WTXF) (216p)",
-      "adresse": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.85
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873044",
+          "name": "FOX Philadelphia PA (WTXF) (216p)",
+          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401873045",
-      "espnId": "401873045",
+      "eventId": "evt-nfl-401873045",
       "begegnung": "Kansas City Chiefs — New York Jets",
       "beginn": "2026-11-08T18:00:00Z",
-      "name": "CBS 2 New York NY (WCBS) (1080p)",
-      "adresse": "http://206.212.244.63/32/index.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.85
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873045",
+          "name": "CBS 2 New York NY (WCBS) (1080p)",
+          "url": "http://206.212.244.63/32/index.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401873041",
-      "espnId": "401873041",
+      "eventId": "evt-nfl-401873041",
       "begegnung": "Carolina Panthers — Denver Broncos",
       "beginn": "2026-11-08T18:00:00Z",
-      "name": "CBS Charlotte NC (WBTV) (270p)",
-      "adresse": "https://d2ugl2g2gz1giy.cloudfront.net/index.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.85
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873041",
+          "name": "CBS Charlotte NC (WBTV) (270p)",
+          "url": "https://d2ugl2g2gz1giy.cloudfront.net/index.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401873042",
-      "espnId": "401873042",
+      "eventId": "evt-nfl-401873042",
       "begegnung": "Miami Dolphins — Detroit Lions",
       "beginn": "2026-11-08T18:00:00Z",
-      "name": "FOX Detroit MI (WJBK) (216p)",
-      "adresse": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox2detroitwjbk-vizious/playlist.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.85
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873042",
+          "name": "FOX Detroit MI (WJBK) (216p)",
+          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox2detroitwjbk-vizious/playlist.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401873049",
-      "espnId": "401873049",
+      "eventId": "evt-nfl-401873043",
+      "begegnung": "Washington Commanders — Los Angeles Rams",
+      "beginn": "2026-11-08T18:00:00Z",
+      "quelle": "aufsicht",
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873043",
+          "name": "FOX Los Angeles CA (KTTV) (216p)",
+          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox11losangeleskttv-vizious/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "eventId": "evt-nfl-401873049",
       "begegnung": "New England Patriots — Green Bay Packers",
       "beginn": "2026-11-08T21:25:00Z",
-      "name": "FOX 11 Green Bay WI (WLUK) (1080p)",
-      "adresse": "https://linear-702.frequency.stream/dist/stirr/702/hls/master/playlist.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.85
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873049",
+          "name": "FOX 11 Green Bay WI (WLUK) (1080p)",
+          "url": "https://linear-702.frequency.stream/dist/stirr/702/hls/master/playlist.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401873048",
-      "espnId": "401873048",
+      "eventId": "evt-nfl-401873048",
       "begegnung": "Seattle Seahawks — Arizona Cardinals",
       "beginn": "2026-11-08T21:25:00Z",
-      "name": "FOX 13 Seattle WA (KCPQ) (720p)",
-      "adresse": "https://aegis-cloudfront-1.tubi.video/cc394198-7bde-43e8-b186-875bc0eb3037/index.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.85
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873048",
+          "name": "FOX 13 Seattle WA (KCPQ) (720p)",
+          "url": "https://aegis-cloudfront-1.tubi.video/cc394198-7bde-43e8-b186-875bc0eb3037/index.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401873050",
-      "espnId": "401873050",
+      "eventId": "evt-nfl-401873050",
       "begegnung": "Chicago Bears — Tampa Bay Buccaneers",
       "beginn": "2026-11-09T01:20:00Z",
-      "name": "NBC (1080p)",
-      "adresse": "http://stream.cammonitorplus.net/1785/index.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.95
+      "sicherheit": 0.95,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873050",
+          "name": "NBC (1080p)",
+          "url": "http://stream.cammonitorplus.net/1785/index.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401873051",
-      "espnId": "401873051",
+      "eventId": "evt-nfl-401873051",
       "begegnung": "Minnesota Vikings — Buffalo Bills",
       "beginn": "2026-11-10T01:15:00Z",
-      "name": "ABC 7 Denver CO (KMGH) (720p)",
-      "adresse": "https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.95
+      "sicherheit": 0.95,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873051",
+          "name": "ABC 7 Denver CO (KMGH) (720p)",
+          "url": "https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401873053",
-      "espnId": "401873053",
+      "eventId": "evt-nfl-401873053",
       "begegnung": "Detroit Lions — New England Patriots",
       "beginn": "2026-11-15T14:30:00Z",
-      "name": "FOX Detroit MI (WJBK) (216p)",
-      "adresse": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox2detroitwjbk-vizious/playlist.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.85
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873053",
+          "name": "FOX Detroit MI (WJBK) (216p)",
+          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox2detroitwjbk-vizious/playlist.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401873060",
-      "espnId": "401873060",
+      "eventId": "evt-nfl-401873060",
       "begegnung": "Green Bay Packers — Minnesota Vikings",
       "beginn": "2026-11-15T18:00:00Z",
-      "name": "FOX 11 Green Bay WI (WLUK) (1080p)",
-      "adresse": "https://linear-702.frequency.stream/dist/stirr/702/hls/master/playlist.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.85
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873060",
+          "name": "FOX 11 Green Bay WI (WLUK) (1080p)",
+          "url": "https://linear-702.frequency.stream/dist/stirr/702/hls/master/playlist.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401873054",
-      "espnId": "401873054",
+      "eventId": "evt-nfl-401873054",
       "begegnung": "New York Jets — Buffalo Bills",
       "beginn": "2026-11-15T18:00:00Z",
-      "name": "CBS 2 New York NY (WCBS) (1080p)",
-      "adresse": "http://206.212.244.63/32/index.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.85
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873054",
+          "name": "CBS 2 New York NY (WCBS) (1080p)",
+          "url": "http://206.212.244.63/32/index.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401873063",
-      "espnId": "401873063",
+      "eventId": "evt-nfl-401873056",
+      "begegnung": "Cleveland Browns — Houston Texans",
+      "beginn": "2026-11-15T18:00:00Z",
+      "quelle": "aufsicht",
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873056",
+          "name": "FOX Houston TX (KRIV) (288p)",
+          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-kriv-lgus/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "eventId": "evt-nfl-401873063",
       "begegnung": "Dallas Cowboys — San Francisco 49ers",
       "beginn": "2026-11-15T21:25:00Z",
-      "name": "FOX Dallas TX (KDFW) (216p)",
-      "adresse": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox4dallaskdfw-vizious/playlist.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.85
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873063",
+          "name": "FOX Dallas TX (KDFW) (216p)",
+          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox4dallaskdfw-vizious/playlist.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401873064",
-      "espnId": "401873064",
+      "eventId": "evt-nfl-401873064",
       "begegnung": "Cincinnati Bengals — Pittsburgh Steelers",
       "beginn": "2026-11-16T01:20:00Z",
-      "name": "NBC (1080p)",
-      "adresse": "http://stream.cammonitorplus.net/1785/index.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.95
+      "sicherheit": 0.95,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873064",
+          "name": "NBC (1080p)",
+          "url": "http://stream.cammonitorplus.net/1785/index.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401873065",
-      "espnId": "401873065",
+      "eventId": "evt-nfl-401873065",
       "begegnung": "Baltimore Ravens — Los Angeles Chargers",
       "beginn": "2026-11-17T01:15:00Z",
-      "name": "ABC 7 Denver CO (KMGH) (720p)",
-      "adresse": "https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.85
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873065",
+          "name": "ABC 7 Denver CO (KMGH) (720p)",
+          "url": "https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401873073",
-      "espnId": "401873073",
+      "eventId": "evt-nfl-401873073",
       "begegnung": "Dallas Cowboys — Tennessee Titans",
       "beginn": "2026-11-22T18:00:00Z",
-      "name": "FOX Dallas TX (KDFW) (216p)",
-      "adresse": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox4dallaskdfw-vizious/playlist.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.85
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873073",
+          "name": "FOX Dallas TX (KDFW) (216p)",
+          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox4dallaskdfw-vizious/playlist.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401873071",
-      "espnId": "401873071",
+      "eventId": "evt-nfl-401873071",
       "begegnung": "Chicago Bears — New Orleans Saints",
       "beginn": "2026-11-22T18:00:00Z",
-      "name": "FOX Chicago IL (WFLD) (216p)",
-      "adresse": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wfld-lgus/playlist.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.85
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873071",
+          "name": "FOX Chicago IL (WFLD) (216p)",
+          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wfld-lgus/playlist.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401873077",
-      "espnId": "401873077",
+      "eventId": "evt-nfl-401873068",
+      "begegnung": "Carolina Panthers — Baltimore Ravens",
+      "beginn": "2026-11-22T18:00:00Z",
+      "quelle": "aufsicht",
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873068",
+          "name": "FOX 45 Baltimore MD (WBFF) (1080p)",
+          "url": "https://linear-688.frequency.stream/dist/stirr/688/hls/master/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "eventId": "evt-nfl-401873069",
+      "begegnung": "New York Giants — Jacksonville Jaguars",
+      "beginn": "2026-11-22T18:00:00Z",
+      "quelle": "aufsicht",
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873069",
+          "name": "CBS 2 New York NY (WCBS) (1080p)",
+          "url": "http://206.212.244.63/32/index.m3u8"
+        }
+      ]
+    },
+    {
+      "eventId": "evt-nfl-401873074",
+      "begegnung": "Los Angeles Chargers — New York Jets",
+      "beginn": "2026-11-22T21:05:00Z",
+      "quelle": "aufsicht",
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873074",
+          "name": "FOX New York NY (WNYW) (288p)",
+          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "eventId": "evt-nfl-401873077",
       "begegnung": "San Francisco 49ers — Minnesota Vikings",
       "beginn": "2026-11-23T01:20:00Z",
-      "name": "NBC (1080p)",
-      "adresse": "http://stream.cammonitorplus.net/1785/index.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.95
+      "sicherheit": 0.95,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873077",
+          "name": "NBC (1080p)",
+          "url": "http://stream.cammonitorplus.net/1785/index.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401873078",
-      "espnId": "401873078",
+      "eventId": "evt-nfl-401873078",
       "begegnung": "Washington Commanders — Cincinnati Bengals",
       "beginn": "2026-11-24T01:15:00Z",
-      "name": "ABC 7 Denver CO (KMGH) (720p)",
-      "adresse": "https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.85
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873078",
+          "name": "ABC 7 Denver CO (KMGH) (720p)",
+          "url": "https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401873082",
-      "espnId": "401873082",
+      "eventId": "evt-nfl-401873081",
+      "begegnung": "Detroit Lions — Chicago Bears",
+      "beginn": "2026-11-26T18:00:00Z",
+      "quelle": "aufsicht",
+      "sicherheit": 0.95,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873081",
+          "name": "CBS (1080p)",
+          "url": "http://stream.cammonitorplus.net/1783/index.m3u8"
+        }
+      ]
+    },
+    {
+      "eventId": "evt-nfl-401873080",
+      "begegnung": "Dallas Cowboys — Philadelphia Eagles",
+      "beginn": "2026-11-26T21:30:00Z",
+      "quelle": "aufsicht",
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873080",
+          "name": "FOX Dallas TX (KDFW) (216p)",
+          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox4dallaskdfw-vizious/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "eventId": "evt-nfl-401873082",
       "begegnung": "Buffalo Bills — Kansas City Chiefs",
       "beginn": "2026-11-27T01:20:00Z",
-      "name": "NBC (1080p)",
-      "adresse": "http://stream.cammonitorplus.net/1785/index.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.95
+      "sicherheit": 0.95,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873082",
+          "name": "NBC (1080p)",
+          "url": "http://stream.cammonitorplus.net/1785/index.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401873091",
-      "espnId": "401873091",
+      "eventId": "evt-nfl-401873089",
+      "begegnung": "Miami Dolphins — New York Jets",
+      "beginn": "2026-11-29T18:00:00Z",
+      "quelle": "aufsicht",
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873089",
+          "name": "CBS 2 New York NY (WCBS) (1080p)",
+          "url": "http://206.212.244.63/32/index.m3u8"
+        }
+      ]
+    },
+    {
+      "eventId": "evt-nfl-401873088",
+      "begegnung": "Indianapolis Colts — New York Giants",
+      "beginn": "2026-11-29T18:00:00Z",
+      "quelle": "aufsicht",
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873088",
+          "name": "FOX New York NY (WNYW) (288p)",
+          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "eventId": "evt-nfl-401873091",
       "begegnung": "San Francisco 49ers — Seattle Seahawks",
       "beginn": "2026-11-29T21:25:00Z",
-      "name": "FOX 2 San Francisco CA (KTVU) (720p)",
-      "adresse": "https://aegis-cloudfront-1.tubi.video/8d9284ec-c451-4e51-a1d4-d16e5c8972af/index.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.85
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873091",
+          "name": "FOX 2 San Francisco CA (KTVU) (720p)",
+          "url": "https://aegis-cloudfront-1.tubi.video/8d9284ec-c451-4e51-a1d4-d16e5c8972af/index.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401873093",
-      "espnId": "401873093",
+      "eventId": "evt-nfl-401873092",
+      "begegnung": "Arizona Cardinals — Washington Commanders",
+      "beginn": "2026-11-29T21:25:00Z",
+      "quelle": "aufsicht",
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873092",
+          "name": "FOX Washington DC (WTTG) (216p)",
+          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox5dcwttg-vizious/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "eventId": "evt-nfl-401873093",
       "begegnung": "Los Angeles Chargers — New England Patriots",
       "beginn": "2026-11-30T01:20:00Z",
-      "name": "NBC (1080p)",
-      "adresse": "http://stream.cammonitorplus.net/1785/index.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.95
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873093",
+          "name": "NBC (1080p)",
+          "url": "http://stream.cammonitorplus.net/1785/index.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401873095",
-      "espnId": "401873095",
+      "eventId": "evt-nfl-401873094",
+      "begegnung": "Tampa Bay Buccaneers — Carolina Panthers",
+      "beginn": "2026-12-01T01:15:00Z",
+      "quelle": "aufsicht",
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873094",
+          "name": "ABC 7 Denver CO (KMGH) (720p)",
+          "url": "https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8"
+        }
+      ]
+    },
+    {
+      "eventId": "evt-nfl-401873095",
       "begegnung": "New York Giants — San Francisco 49ers",
       "beginn": "2026-12-06T18:00:00Z",
-      "name": "FOX 2 San Francisco CA (KTVU) (720p)",
-      "adresse": "https://aegis-cloudfront-1.tubi.video/8d9284ec-c451-4e51-a1d4-d16e5c8972af/index.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.85
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873095",
+          "name": "FOX 2 San Francisco CA (KTVU) (720p)",
+          "url": "https://aegis-cloudfront-1.tubi.video/8d9284ec-c451-4e51-a1d4-d16e5c8972af/index.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401873099",
-      "espnId": "401873099",
+      "eventId": "evt-nfl-401873099",
       "begegnung": "New Orleans Saints — Green Bay Packers",
       "beginn": "2026-12-06T18:00:00Z",
-      "name": "FOX 11 Green Bay WI (WLUK) (1080p)",
-      "adresse": "https://linear-702.frequency.stream/dist/stirr/702/hls/master/playlist.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.85
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873099",
+          "name": "FOX 11 Green Bay WI (WLUK) (1080p)",
+          "url": "https://linear-702.frequency.stream/dist/stirr/702/hls/master/playlist.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401873097",
-      "espnId": "401873097",
+      "eventId": "evt-nfl-401873097",
       "begegnung": "Cleveland Browns — Cincinnati Bengals",
       "beginn": "2026-12-06T18:00:00Z",
-      "name": "CBS 12 Cincinnati OH (WKRC) (1080p)",
-      "adresse": "https://linear-691.frequency.stream/dist/stirr/691/hls/master/playlist.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.85
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873097",
+          "name": "CBS 12 Cincinnati OH (WKRC) (1080p)",
+          "url": "https://linear-691.frequency.stream/dist/stirr/691/hls/master/playlist.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401873100",
-      "espnId": "401873100",
+      "eventId": "evt-nfl-401873100",
       "begegnung": "Chicago Bears — Jacksonville Jaguars",
       "beginn": "2026-12-06T18:00:00Z",
-      "name": "FOX Chicago IL (WFLD) (216p)",
-      "adresse": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wfld-lgus/playlist.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.85
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873100",
+          "name": "FOX Chicago IL (WFLD) (216p)",
+          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wfld-lgus/playlist.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401873104",
-      "espnId": "401873104",
+      "eventId": "evt-nfl-401873104",
       "begegnung": "Arizona Cardinals — Philadelphia Eagles",
       "beginn": "2026-12-06T21:05:00Z",
-      "name": "FOX Philadelphia PA (WTXF) (216p)",
-      "adresse": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.85
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873104",
+          "name": "FOX Philadelphia PA (WTXF) (216p)",
+          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401873106",
-      "espnId": "401873106",
+      "eventId": "evt-nfl-401873106",
       "begegnung": "Minnesota Vikings — Carolina Panthers",
       "beginn": "2026-12-06T21:25:00Z",
-      "name": "CBS Charlotte NC (WBTV) (270p)",
-      "adresse": "https://d2ugl2g2gz1giy.cloudfront.net/index.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.85
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873106",
+          "name": "CBS Charlotte NC (WBTV) (270p)",
+          "url": "https://d2ugl2g2gz1giy.cloudfront.net/index.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401873107",
-      "espnId": "401873107",
+      "eventId": "evt-nfl-401873107",
       "begegnung": "Pittsburgh Steelers — Houston Texans",
       "beginn": "2026-12-07T01:20:00Z",
-      "name": "NBC (1080p)",
-      "adresse": "http://stream.cammonitorplus.net/1785/index.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.85
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873107",
+          "name": "NBC (1080p)",
+          "url": "http://stream.cammonitorplus.net/1785/index.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401873108",
-      "espnId": "401873108",
+      "eventId": "evt-nfl-401873108",
       "begegnung": "Seattle Seahawks — Dallas Cowboys",
       "beginn": "2026-12-08T01:15:00Z",
-      "name": "ABC 7 Denver CO (KMGH) (720p)",
-      "adresse": "https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.95
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873108",
+          "name": "ABC 7 Denver CO (KMGH) (720p)",
+          "url": "https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401873114",
-      "espnId": "401873114",
+      "eventId": "evt-nfl-401873114",
       "begegnung": "Philadelphia Eagles — Indianapolis Colts",
       "beginn": "2026-12-13T18:00:00Z",
-      "name": "FOX Philadelphia PA (WTXF) (216p)",
-      "adresse": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.85
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873114",
+          "name": "FOX Philadelphia PA (WTXF) (216p)",
+          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401873112",
-      "espnId": "401873112",
+      "eventId": "evt-nfl-401873112",
       "begegnung": "New York Jets — Denver Broncos",
       "beginn": "2026-12-13T18:00:00Z",
-      "name": "CBS 2 New York NY (WCBS) (1080p)",
-      "adresse": "http://206.212.244.63/32/index.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.85
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873112",
+          "name": "CBS 2 New York NY (WCBS) (1080p)",
+          "url": "http://206.212.244.63/32/index.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401873117",
-      "espnId": "401873117",
+      "eventId": "evt-nfl-401873117",
       "begegnung": "Detroit Lions — Tennessee Titans",
       "beginn": "2026-12-13T18:00:00Z",
-      "name": "FOX Detroit MI (WJBK) (216p)",
-      "adresse": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox2detroitwjbk-vizious/playlist.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.85
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873117",
+          "name": "FOX Detroit MI (WJBK) (216p)",
+          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox2detroitwjbk-vizious/playlist.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401873120",
-      "espnId": "401873120",
+      "eventId": "evt-nfl-401873116",
+      "begegnung": "Baltimore Ravens — Tampa Bay Buccaneers",
+      "beginn": "2026-12-13T18:00:00Z",
+      "quelle": "aufsicht",
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873116",
+          "name": "FOX 45 Baltimore MD (WBFF) (1080p)",
+          "url": "https://linear-688.frequency.stream/dist/stirr/688/hls/master/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "eventId": "evt-nfl-401873115",
+      "begegnung": "Carolina Panthers — New Orleans Saints",
+      "beginn": "2026-12-13T18:00:00Z",
+      "quelle": "aufsicht",
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873115",
+          "name": "CBS Charlotte NC (WBTV) (270p)",
+          "url": "https://d2ugl2g2gz1giy.cloudfront.net/index.m3u8"
+        }
+      ]
+    },
+    {
+      "eventId": "evt-nfl-401873120",
       "begegnung": "San Francisco 49ers — Los Angeles Rams",
       "beginn": "2026-12-13T21:25:00Z",
-      "name": "FOX 2 San Francisco CA (KTVU) (720p)",
-      "adresse": "https://aegis-cloudfront-1.tubi.video/8d9284ec-c451-4e51-a1d4-d16e5c8972af/index.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.85
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873120",
+          "name": "FOX 2 San Francisco CA (KTVU) (720p)",
+          "url": "https://aegis-cloudfront-1.tubi.video/8d9284ec-c451-4e51-a1d4-d16e5c8972af/index.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401873121",
-      "espnId": "401873121",
+      "eventId": "evt-nfl-401873121",
       "begegnung": "Seattle Seahawks — New York Giants",
       "beginn": "2026-12-13T21:25:00Z",
-      "name": "FOX 13 Seattle WA (KCPQ) (720p)",
-      "adresse": "https://aegis-cloudfront-1.tubi.video/cc394198-7bde-43e8-b186-875bc0eb3037/index.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.85
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873121",
+          "name": "FOX 13 Seattle WA (KCPQ) (720p)",
+          "url": "https://aegis-cloudfront-1.tubi.video/cc394198-7bde-43e8-b186-875bc0eb3037/index.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401873122",
-      "espnId": "401873122",
+      "eventId": "evt-nfl-401873122",
       "begegnung": "Green Bay Packers — Buffalo Bills",
       "beginn": "2026-12-14T01:20:00Z",
-      "name": "NBC (1080p)",
-      "adresse": "http://stream.cammonitorplus.net/1785/index.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.95
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873122",
+          "name": "NBC (1080p)",
+          "url": "http://stream.cammonitorplus.net/1785/index.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401873125",
-      "espnId": "401873125",
+      "eventId": "evt-nfl-401873123",
+      "begegnung": "Jacksonville Jaguars — Pittsburgh Steelers",
+      "beginn": "2026-12-15T01:15:00Z",
+      "quelle": "aufsicht",
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873123",
+          "name": "ABC 7 Denver CO (KMGH) (720p)",
+          "url": "https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8"
+        }
+      ]
+    },
+    {
+      "eventId": "evt-nfl-401873125",
       "begegnung": "Philadelphia Eagles — Seattle Seahawks",
       "beginn": "2026-12-19T22:00:00Z",
-      "name": "FOX Philadelphia PA (WTXF) (216p)",
-      "adresse": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.85
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873125",
+          "name": "FOX Philadelphia PA (WTXF) (216p)",
+          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401873133",
-      "espnId": "401873133",
+      "eventId": "evt-nfl-401873133",
       "begegnung": "Green Bay Packers — Miami Dolphins",
       "beginn": "2026-12-20T18:00:00Z",
-      "name": "FOX 11 Green Bay WI (WLUK) (1080p)",
-      "adresse": "https://linear-702.frequency.stream/dist/stirr/702/hls/master/playlist.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.85
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873133",
+          "name": "FOX 11 Green Bay WI (WLUK) (1080p)",
+          "url": "https://linear-702.frequency.stream/dist/stirr/702/hls/master/playlist.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401873138",
-      "espnId": "401873138",
+      "eventId": "evt-nfl-401873130",
+      "begegnung": "New York Giants — Cleveland Browns",
+      "beginn": "2026-12-20T18:00:00Z",
+      "quelle": "aufsicht",
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873130",
+          "name": "CBS 2 New York NY (WCBS) (1080p)",
+          "url": "http://206.212.244.63/32/index.m3u8"
+        }
+      ]
+    },
+    {
+      "eventId": "evt-nfl-401873127",
+      "begegnung": "Washington Commanders — Atlanta Falcons",
+      "beginn": "2026-12-20T18:00:00Z",
+      "quelle": "aufsicht",
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873127",
+          "name": "FOX Washington DC (WTTG) (216p)",
+          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox5dcwttg-vizious/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "eventId": "evt-nfl-401873134",
+      "begegnung": "Tampa Bay Buccaneers — New Orleans Saints",
+      "beginn": "2026-12-20T18:00:00Z",
+      "quelle": "aufsicht",
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873134",
+          "name": "FOX Tampa FL (WTVT) (216p)",
+          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox13tampabaywtvt-vizious/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "eventId": "evt-nfl-401873135",
+      "begegnung": "Arizona Cardinals — New York Jets",
+      "beginn": "2026-12-20T21:05:00Z",
+      "quelle": "aufsicht",
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873135",
+          "name": "FOX New York NY (WNYW) (288p)",
+          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "eventId": "evt-nfl-401873138",
       "begegnung": "Minnesota Vikings — Detroit Lions",
       "beginn": "2026-12-21T01:20:00Z",
-      "name": "NBC (1080p)",
-      "adresse": "http://stream.cammonitorplus.net/1785/index.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.95
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873138",
+          "name": "NBC (1080p)",
+          "url": "http://stream.cammonitorplus.net/1785/index.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401873139",
-      "espnId": "401873139",
+      "eventId": "evt-nfl-401873139",
       "begegnung": "Kansas City Chiefs — New England Patriots",
       "beginn": "2026-12-22T01:15:00Z",
-      "name": "ABC 7 Denver CO (KMGH) (720p)",
-      "adresse": "https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.95
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873139",
+          "name": "ABC 7 Denver CO (KMGH) (720p)",
+          "url": "https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401873150",
-      "espnId": "401873150",
+      "eventId": "evt-nfl-401873150",
       "begegnung": "Miami Dolphins — Los Angeles Chargers",
       "beginn": "2026-12-27T18:00:00Z",
-      "name": "FOX Los Angeles CA (KTTV) (216p)",
-      "adresse": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox11losangeleskttv-vizious/playlist.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.85
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873150",
+          "name": "FOX Los Angeles CA (KTTV) (216p)",
+          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox11losangeleskttv-vizious/playlist.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401873154",
-      "espnId": "401873154",
+      "eventId": "evt-nfl-401873151",
+      "begegnung": "New York Jets — New England Patriots",
+      "beginn": "2026-12-27T18:00:00Z",
+      "quelle": "aufsicht",
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873151",
+          "name": "CBS 2 New York NY (WCBS) (1080p)",
+          "url": "http://206.212.244.63/32/index.m3u8"
+        }
+      ]
+    },
+    {
+      "eventId": "evt-nfl-401873148",
+      "begegnung": "New Orleans Saints — Arizona Cardinals",
+      "beginn": "2026-12-27T18:00:00Z",
+      "quelle": "aufsicht",
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873148",
+          "name": "FOX Phoenix AZ (KSAZ) (288p)",
+          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-ksaz-lgus/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "eventId": "evt-nfl-401873154",
       "begegnung": "Dallas Cowboys — Jacksonville Jaguars",
       "beginn": "2026-12-28T01:20:00Z",
-      "name": "NBC (1080p)",
-      "adresse": "http://stream.cammonitorplus.net/1785/index.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.95
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873154",
+          "name": "NBC (1080p)",
+          "url": "http://stream.cammonitorplus.net/1785/index.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401873155",
-      "espnId": "401873155",
+      "eventId": "evt-nfl-401873155",
       "begegnung": "Detroit Lions — New York Giants",
       "beginn": "2026-12-29T01:15:00Z",
-      "name": "ABC 7 Denver CO (KMGH) (720p)",
-      "adresse": "https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.85
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873155",
+          "name": "ABC 7 Denver CO (KMGH) (720p)",
+          "url": "https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401873170",
-      "espnId": "401873170",
+      "eventId": "evt-nfl-401873170",
       "begegnung": "San Francisco 49ers — Philadelphia Eagles",
       "beginn": "2027-01-04T01:20:00Z",
-      "name": "NBC (1080p)",
-      "adresse": "http://stream.cammonitorplus.net/1785/index.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.95
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873170",
+          "name": "NBC (1080p)",
+          "url": "http://stream.cammonitorplus.net/1785/index.m3u8"
+        }
+      ]
     },
     {
-      "spielId": "evt-nfl-401873171",
-      "espnId": "401873171",
+      "eventId": "evt-nfl-401873171",
       "begegnung": "Green Bay Packers — Houston Texans",
       "beginn": "2027-01-05T01:15:00Z",
-      "name": "ABC 7 Denver CO (KMGH) (720p)",
-      "adresse": "https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8",
       "quelle": "aufsicht",
-      "sicherheit": 0.85
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873171",
+          "name": "ABC 7 Denver CO (KMGH) (720p)",
+          "url": "https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8"
+        }
+      ]
     }
   ]
 }
