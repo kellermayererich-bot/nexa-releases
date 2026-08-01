@@ -1,5 +1,5 @@
 {
-  "erzeugtAm": "2026-08-01T22:01:34.448Z",
+  "erzeugtAm": "2026-08-01T23:05:01.190Z",
   "kategorien": [],
   "meldeUrl": "https://nexa-meldestelle.kellermayererich.workers.dev",
   "meldeSchluessel": "MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEA008tSHivku4Xhpt8xFrPOK2Igar7tsBHQyORJ6vlRdxlluTfnfhme5s16Xt772UtHJObM5Gq-8paUrmZl1sLWUySI2EjbC1AF5Uh4OSybWigeA1IWVp2sc4PgNI74wAnpkkneYXLwq-ctQh7og5tCRuotX9WOKuJM27mIh6eS6gFAYqcJtkgoRTvVWHZG48p-VuZB2lxTN_k7BaEMRFtAG5ajayGwK64KWoaQTJFfSN5j3A427bEARwgxOTkFbfDiNp64goLogELr7m5dgaRsCdzqPKRqN46chjP0xNwn8MAj3AbP25fqgzMOR4pVGJg-3KLLhaGZN8EtL87yEmI3kfMLu8-OSUKW6SyUPMx_CIQHmNvrZ52TsZnPqUk8OjSVftbh9HiuNuzB_srmZBpMtQIXavjFdRmfpQebo96Js8PFwVOi4S3JSEYo9-76syOFFNIlJG8FMJQMgawzzYRw1czbXPF2XM0ST4x9OOvykiSTzyKVOijqZvKqGRJxzlxZelwQPUBirJoAtn_ZfWd0vD4f4buXBVKdJQBe5e-_NkZ5T52GqRAzOlUOJgGWdhgGLC-HjtTT5P0dJHMK2eYjVSOR5dbgi7L6xAV5GX0mYJ-J4z9nhj_vXPJleLOxb86XbczHua3b46P4Mmq9ajY0lNz-fRzBRzYtDn4D-7670cCAwEAAQ",
@@ -1610,6 +1610,20 @@
       ]
     },
     {
+      "eventId": "evt-nfl-401873087",
+      "begegnung": "Cincinnati Bengals — New Orleans Saints",
+      "beginn": "2026-11-29T18:00:00Z",
+      "quelle": "aufsicht",
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873087",
+          "name": "CBS 12 Cincinnati OH (WKRC) (1080p)",
+          "url": "https://linear-691.frequency.stream/dist/stirr/691/hls/master/playlist.m3u8"
+        }
+      ]
+    },
+    {
       "eventId": "evt-nfl-401873084",
       "begegnung": "Minnesota Vikings — Atlanta Falcons",
       "beginn": "2026-11-29T18:00:00Z",
@@ -2168,6 +2182,20 @@
           "id": "studio-evt-nfl-401873139",
           "name": "ABC 7 Denver CO (KMGH) (720p)",
           "url": "https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8"
+        }
+      ]
+    },
+    {
+      "eventId": "evt-nfl-401873143",
+      "begegnung": "Seattle Seahawks — Los Angeles Rams",
+      "beginn": "2026-12-26T01:15:00Z",
+      "quelle": "aufsicht",
+      "sicherheit": 0.85,
+      "streams": [
+        {
+          "id": "studio-evt-nfl-401873143",
+          "name": "FOX 13 Seattle WA (KCPQ) (720p)",
+          "url": "https://aegis-cloudfront-1.tubi.video/cc394198-7bde-43e8-b186-875bc0eb3037/index.m3u8"
         }
       ]
     },
