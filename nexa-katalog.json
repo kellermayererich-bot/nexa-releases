@@ -1,5 +1,5 @@
 {
-  "erzeugtAm": "2026-08-02T04:03:04.641Z",
+  "erzeugtAm": "2026-08-02T05:04:38.047Z",
   "kategorien": [],
   "meldeUrl": "https://nexa-meldestelle.kellermayererich.workers.dev",
   "meldeSchluessel": "MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEA008tSHivku4Xhpt8xFrPOK2Igar7tsBHQyORJ6vlRdxlluTfnfhme5s16Xt772UtHJObM5Gq-8paUrmZl1sLWUySI2EjbC1AF5Uh4OSybWigeA1IWVp2sc4PgNI74wAnpkkneYXLwq-ctQh7og5tCRuotX9WOKuJM27mIh6eS6gFAYqcJtkgoRTvVWHZG48p-VuZB2lxTN_k7BaEMRFtAG5ajayGwK64KWoaQTJFfSN5j3A427bEARwgxOTkFbfDiNp64goLogELr7m5dgaRsCdzqPKRqN46chjP0xNwn8MAj3AbP25fqgzMOR4pVGJg-3KLLhaGZN8EtL87yEmI3kfMLu8-OSUKW6SyUPMx_CIQHmNvrZ52TsZnPqUk8OjSVftbh9HiuNuzB_srmZBpMtQIXavjFdRmfpQebo96Js8PFwVOi4S3JSEYo9-76syOFFNIlJG8FMJQMgawzzYRw1czbXPF2XM0ST4x9OOvykiSTzyKVOijqZvKqGRJxzlxZelwQPUBirJoAtn_ZfWd0vD4f4buXBVKdJQBe5e-_NkZ5T52GqRAzOlUOJgGWdhgGLC-HjtTT5P0dJHMK2eYjVSOR5dbgi7L6xAV5GX0mYJ-J4z9nhj_vXPJleLOxb86XbczHua3b46P4Mmq9ajY0lNz-fRzBRzYtDn4D-7670cCAwEAAQ",
@@ -107,20 +107,6 @@
       ]
     },
     {
-      "eventId": "evt-nfl-401872929",
-      "begegnung": "Philadelphia Eagles — Washington Commanders",
-      "beginn": "2026-09-13T20:25:00Z",
-      "quelle": "aufsicht",
-      "sicherheit": 0.85,
-      "streams": [
-        {
-          "id": "studio-evt-nfl-401872929",
-          "name": "FOX Philadelphia PA (WTXF) (216p)",
-          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8"
-        }
-      ]
-    },
-    {
       "eventId": "evt-nfl-401872930",
       "begegnung": "New York Giants — Dallas Cowboys",
       "beginn": "2026-09-14T00:20:00Z",
@@ -173,20 +159,6 @@
           "id": "studio-evt-nfl-401872937",
           "name": "FOX Chicago IL (WFLD) (216p)",
           "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wfld-lgus/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "eventId": "evt-nfl-401872939",
-      "begegnung": "Tennessee Titans — Philadelphia Eagles",
-      "beginn": "2026-09-20T17:00:00Z",
-      "quelle": "aufsicht",
-      "sicherheit": 0.85,
-      "streams": [
-        {
-          "id": "studio-evt-nfl-401872939",
-          "name": "FOX Philadelphia PA (WTXF) (216p)",
-          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8"
         }
       ]
     },
@@ -494,8 +466,8 @@
       "streams": [
         {
           "id": "studio-evt-nfl-401872970",
-          "name": "FOX Philadelphia PA (WTXF) (216p)",
-          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8"
+          "name": "FOX Los Angeles CA (KTTV) (216p)",
+          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox11losangeleskttv-vizious/playlist.m3u8"
         }
       ]
     },
@@ -1210,8 +1182,8 @@
       "streams": [
         {
           "id": "studio-evt-nfl-401873044",
-          "name": "FOX Philadelphia PA (WTXF) (216p)",
-          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8"
+          "name": "FOX New York NY (WNYW) (288p)",
+          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8"
         }
       ]
     },
@@ -1702,8 +1674,8 @@
       "streams": [
         {
           "id": "studio-evt-nfl-401873092",
-          "name": "FOX Washington DC (WTTG) (216p)",
-          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox5dcwttg-vizious/playlist.m3u8"
+          "name": "FOX Phoenix AZ (KSAZ) (288p)",
+          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-ksaz-lgus/playlist.m3u8"
         }
       ]
     },
@@ -1829,8 +1801,8 @@
       "streams": [
         {
           "id": "studio-evt-nfl-401873104",
-          "name": "FOX Philadelphia PA (WTXF) (216p)",
-          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8"
+          "name": "FOX Phoenix AZ (KSAZ) (288p)",
+          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-ksaz-lgus/playlist.m3u8"
         }
       ]
     },
@@ -1887,20 +1859,6 @@
           "id": "studio-evt-nfl-401873108",
           "name": "ABC 7 Denver CO (KMGH) (720p)",
           "url": "https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8"
-        }
-      ]
-    },
-    {
-      "eventId": "evt-nfl-401873114",
-      "begegnung": "Philadelphia Eagles — Indianapolis Colts",
-      "beginn": "2026-12-13T18:00:00Z",
-      "quelle": "aufsicht",
-      "sicherheit": 0.85,
-      "streams": [
-        {
-          "id": "studio-evt-nfl-401873114",
-          "name": "FOX Philadelphia PA (WTXF) (216p)",
-          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8"
         }
       ]
     },
@@ -2054,8 +2012,8 @@
       "streams": [
         {
           "id": "studio-evt-nfl-401873125",
-          "name": "FOX Philadelphia PA (WTXF) (216p)",
-          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8"
+          "name": "FOX 13 Seattle WA (KCPQ) (720p)",
+          "url": "https://aegis-cloudfront-1.tubi.video/cc394198-7bde-43e8-b186-875bc0eb3037/index.m3u8"
         }
       ]
     },
@@ -2110,8 +2068,8 @@
       "streams": [
         {
           "id": "studio-evt-nfl-401873127",
-          "name": "FOX Washington DC (WTTG) (216p)",
-          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox5dcwttg-vizious/playlist.m3u8"
+          "name": "FOX 5 Atlanta GA (WAGA) (288p)",
+          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-waga-lgus/playlist.m3u8"
         }
       ]
     },
