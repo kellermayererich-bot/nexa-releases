@@ -1,5 +1,5 @@
 {
-  "erzeugtAm": "2026-08-05T15:02:58.400Z",
+  "erzeugtAm": "2026-08-05T15:48:18.610Z",
   "kategorien": [],
   "meldeUrl": "https://nexa-meldestelle.kellermayererich.workers.dev",
   "meldeSchluessel": "MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEA008tSHivku4Xhpt8xFrPOK2Igar7tsBHQyORJ6vlRdxlluTfnfhme5s16Xt772UtHJObM5Gq-8paUrmZl1sLWUySI2EjbC1AF5Uh4OSybWigeA1IWVp2sc4PgNI74wAnpkkneYXLwq-ctQh7og5tCRuotX9WOKuJM27mIh6eS6gFAYqcJtkgoRTvVWHZG48p-VuZB2lxTN_k7BaEMRFtAG5ajayGwK64KWoaQTJFfSN5j3A427bEARwgxOTkFbfDiNp64goLogELr7m5dgaRsCdzqPKRqN46chjP0xNwn8MAj3AbP25fqgzMOR4pVGJg-3KLLhaGZN8EtL87yEmI3kfMLu8-OSUKW6SyUPMx_CIQHmNvrZ52TsZnPqUk8OjSVftbh9HiuNuzB_srmZBpMtQIXavjFdRmfpQebo96Js8PFwVOi4S3JSEYo9-76syOFFNIlJG8FMJQMgawzzYRw1czbXPF2XM0ST4x9OOvykiSTzyKVOijqZvKqGRJxzlxZelwQPUBirJoAtn_ZfWd0vD4f4buXBVKdJQBe5e-_NkZ5T52GqRAzOlUOJgGWdhgGLC-HjtTT5P0dJHMK2eYjVSOR5dbgi7L6xAV5GX0mYJ-J4z9nhj_vXPJleLOxb86XbczHua3b46P4Mmq9ajY0lNz-fRzBRzYtDn4D-7670cCAwEAAQ",
@@ -510,20 +510,6 @@
           "id": "studio-evt-nfl-401872973",
           "name": "CBS Nashville TN (WTVF) (720p)",
           "url": "https://content.uplynk.com/channel/0d3d579b1d0948878a17dcb7eca85021.m3u8"
-        }
-      ]
-    },
-    {
-      "eventId": "evt-nfl-401872966",
-      "begegnung": "New York Giants — Arizona Cardinals",
-      "beginn": "2026-10-04T17:00:00Z",
-      "quelle": "aufsicht",
-      "sicherheit": 0.85,
-      "streams": [
-        {
-          "id": "studio-evt-nfl-401872966",
-          "name": "CBS 2 New York NY (WCBS) (1080p)",
-          "url": "http://206.212.244.63/32/index.m3u8"
         }
       ]
     },
@@ -1184,20 +1170,6 @@
           "id": "studio-evt-nfl-401873044",
           "name": "FOX Philadelphia PA (WTXF) (216p)",
           "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "eventId": "evt-nfl-401873045",
-      "begegnung": "Kansas City Chiefs — New York Jets",
-      "beginn": "2026-11-08T18:00:00Z",
-      "quelle": "aufsicht",
-      "sicherheit": 0.85,
-      "streams": [
-        {
-          "id": "studio-evt-nfl-401873045",
-          "name": "CBS 2 New York NY (WCBS) (1080p)",
-          "url": "http://206.212.244.63/32/index.m3u8"
         }
       ]
     },
