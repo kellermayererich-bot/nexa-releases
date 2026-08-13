@@ -1,5 +1,5 @@
 {
-  "erzeugtAm": "2026-08-13T15:57:42.895Z",
+  "erzeugtAm": "2026-08-13T17:04:24.951Z",
   "kategorien": [],
   "meldeUrl": "https://nexa-meldestelle.kellermayererich.workers.dev",
   "meldeSchluessel": "MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEA008tSHivku4Xhpt8xFrPOK2Igar7tsBHQyORJ6vlRdxlluTfnfhme5s16Xt772UtHJObM5Gq-8paUrmZl1sLWUySI2EjbC1AF5Uh4OSybWigeA1IWVp2sc4PgNI74wAnpkkneYXLwq-ctQh7og5tCRuotX9WOKuJM27mIh6eS6gFAYqcJtkgoRTvVWHZG48p-VuZB2lxTN_k7BaEMRFtAG5ajayGwK64KWoaQTJFfSN5j3A427bEARwgxOTkFbfDiNp64goLogELr7m5dgaRsCdzqPKRqN46chjP0xNwn8MAj3AbP25fqgzMOR4pVGJg-3KLLhaGZN8EtL87yEmI3kfMLu8-OSUKW6SyUPMx_CIQHmNvrZ52TsZnPqUk8OjSVftbh9HiuNuzB_srmZBpMtQIXavjFdRmfpQebo96Js8PFwVOi4S3JSEYo9-76syOFFNIlJG8FMJQMgawzzYRw1czbXPF2XM0ST4x9OOvykiSTzyKVOijqZvKqGRJxzlxZelwQPUBirJoAtn_ZfWd0vD4f4buXBVKdJQBe5e-_NkZ5T52GqRAzOlUOJgGWdhgGLC-HjtTT5P0dJHMK2eYjVSOR5dbgi7L6xAV5GX0mYJ-J4z9nhj_vXPJleLOxb86XbczHua3b46P4Mmq9ajY0lNz-fRzBRzYtDn4D-7670cCAwEAAQ",
@@ -570,20 +570,6 @@
       ]
     },
     {
-      "eventId": "evt-nfl-401872979",
-      "begegnung": "New Orleans Saints — Atlanta Falcons",
-      "beginn": "2026-10-06T00:15:00Z",
-      "quelle": "aufsicht",
-      "sicherheit": 0.85,
-      "streams": [
-        {
-          "id": "studio-evt-nfl-401872979",
-          "name": "ABC 7 Denver CO (KMGH) (720p)",
-          "url": "https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8"
-        }
-      ]
-    },
-    {
       "eventId": "evt-nfl-401872981",
       "begegnung": "Jacksonville Jaguars — Philadelphia Eagles",
       "beginn": "2026-10-11T13:30:00Z",
@@ -1119,20 +1105,6 @@
       ]
     },
     {
-      "eventId": "evt-nfl-401873036",
-      "begegnung": "Seattle Seahawks — Chicago Bears",
-      "beginn": "2026-11-03T01:15:00Z",
-      "quelle": "aufsicht",
-      "sicherheit": 0.85,
-      "streams": [
-        {
-          "id": "studio-evt-nfl-401873036",
-          "name": "ABC 7 Denver CO (KMGH) (720p)",
-          "url": "https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8"
-        }
-      ]
-    },
-    {
       "eventId": "evt-nfl-401873038",
       "begegnung": "Atlanta Falcons — Cincinnati Bengals",
       "beginn": "2026-11-08T14:30:00Z",
@@ -1373,20 +1345,6 @@
       ]
     },
     {
-      "eventId": "evt-nfl-401873065",
-      "begegnung": "Baltimore Ravens — Los Angeles Chargers",
-      "beginn": "2026-11-17T01:15:00Z",
-      "quelle": "aufsicht",
-      "sicherheit": 0.85,
-      "streams": [
-        {
-          "id": "studio-evt-nfl-401873065",
-          "name": "ABC 7 Denver CO (KMGH) (720p)",
-          "url": "https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8"
-        }
-      ]
-    },
-    {
       "eventId": "evt-nfl-401873073",
       "begegnung": "Dallas Cowboys — Tennessee Titans",
       "beginn": "2026-11-22T18:00:00Z",
@@ -1467,20 +1425,6 @@
           "id": "studio-evt-nfl-401873077",
           "name": "NBC (1080p)",
           "url": "http://stream.cammonitorplus.net/1785/index.m3u8"
-        }
-      ]
-    },
-    {
-      "eventId": "evt-nfl-401873078",
-      "begegnung": "Washington Commanders — Cincinnati Bengals",
-      "beginn": "2026-11-24T01:15:00Z",
-      "quelle": "aufsicht",
-      "sicherheit": 0.85,
-      "streams": [
-        {
-          "id": "studio-evt-nfl-401873078",
-          "name": "ABC 7 Denver CO (KMGH) (720p)",
-          "url": "https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8"
         }
       ]
     },
@@ -1621,20 +1565,6 @@
           "id": "studio-evt-nfl-401873093",
           "name": "NBC (1080p)",
           "url": "http://stream.cammonitorplus.net/1785/index.m3u8"
-        }
-      ]
-    },
-    {
-      "eventId": "evt-nfl-401873094",
-      "begegnung": "Tampa Bay Buccaneers — Carolina Panthers",
-      "beginn": "2026-12-01T01:15:00Z",
-      "quelle": "aufsicht",
-      "sicherheit": 0.85,
-      "streams": [
-        {
-          "id": "studio-evt-nfl-401873094",
-          "name": "ABC 7 Denver CO (KMGH) (720p)",
-          "url": "https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8"
         }
       ]
     },
@@ -1907,20 +1837,6 @@
       ]
     },
     {
-      "eventId": "evt-nfl-401873123",
-      "begegnung": "Jacksonville Jaguars — Pittsburgh Steelers",
-      "beginn": "2026-12-15T01:15:00Z",
-      "quelle": "aufsicht",
-      "sicherheit": 0.85,
-      "streams": [
-        {
-          "id": "studio-evt-nfl-401873123",
-          "name": "ABC 7 Denver CO (KMGH) (720p)",
-          "url": "https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8"
-        }
-      ]
-    },
-    {
       "eventId": "evt-nfl-401873125",
       "begegnung": "Philadelphia Eagles — Seattle Seahawks",
       "beginn": "2026-12-19T22:00:00Z",
@@ -2133,20 +2049,6 @@
       ]
     },
     {
-      "eventId": "evt-nfl-401873155",
-      "begegnung": "Detroit Lions — New York Giants",
-      "beginn": "2026-12-29T01:15:00Z",
-      "quelle": "aufsicht",
-      "sicherheit": 0.85,
-      "streams": [
-        {
-          "id": "studio-evt-nfl-401873155",
-          "name": "ABC 7 Denver CO (KMGH) (720p)",
-          "url": "https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8"
-        }
-      ]
-    },
-    {
       "eventId": "evt-nfl-401873170",
       "begegnung": "San Francisco 49ers — Philadelphia Eagles",
       "beginn": "2027-01-04T01:20:00Z",
@@ -2157,20 +2059,6 @@
           "id": "studio-evt-nfl-401873170",
           "name": "NBC (1080p)",
           "url": "http://stream.cammonitorplus.net/1785/index.m3u8"
-        }
-      ]
-    },
-    {
-      "eventId": "evt-nfl-401873171",
-      "begegnung": "Green Bay Packers — Houston Texans",
-      "beginn": "2027-01-05T01:15:00Z",
-      "quelle": "aufsicht",
-      "sicherheit": 0.85,
-      "streams": [
-        {
-          "id": "studio-evt-nfl-401873171",
-          "name": "ABC 7 Denver CO (KMGH) (720p)",
-          "url": "https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8"
         }
       ]
     }
