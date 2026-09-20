@@ -1,5 +1,5 @@
 {
-  "erzeugtAm": "2026-09-20T22:00:04.336Z",
+  "erzeugtAm": "2026-09-20T23:00:04.617Z",
   "kategorien": [],
   "meldeUrl": "https://nexa-meldestelle.kellermayererich.workers.dev",
   "meldeSchluessel": "MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEA008tSHivku4Xhpt8xFrPOK2Igar7tsBHQyORJ6vlRdxlluTfnfhme5s16Xt772UtHJObM5Gq-8paUrmZl1sLWUySI2EjbC1AF5Uh4OSybWigeA1IWVp2sc4PgNI74wAnpkkneYXLwq-ctQh7og5tCRuotX9WOKuJM27mIh6eS6gFAYqcJtkgoRTvVWHZG48p-VuZB2lxTN_k7BaEMRFtAG5ajayGwK64KWoaQTJFfSN5j3A427bEARwgxOTkFbfDiNp64goLogELr7m5dgaRsCdzqPKRqN46chjP0xNwn8MAj3AbP25fqgzMOR4pVGJg-3KLLhaGZN8EtL87yEmI3kfMLu8-OSUKW6SyUPMx_CIQHmNvrZ52TsZnPqUk8OjSVftbh9HiuNuzB_srmZBpMtQIXavjFdRmfpQebo96Js8PFwVOi4S3JSEYo9-76syOFFNIlJG8FMJQMgawzzYRw1czbXPF2XM0ST4x9OOvykiSTzyKVOijqZvKqGRJxzlxZelwQPUBirJoAtn_ZfWd0vD4f4buXBVKdJQBe5e-_NkZ5T52GqRAzOlUOJgGWdhgGLC-HjtTT5P0dJHMK2eYjVSOR5dbgi7L6xAV5GX0mYJ-J4z9nhj_vXPJleLOxb86XbczHua3b46P4Mmq9ajY0lNz-fRzBRzYtDn4D-7670cCAwEAAQ",
@@ -7,105 +7,6 @@
     "aktiv": false
   },
   "zuordnungen": [
-    {
-      "eventId": "evt-nfl-401872934",
-      "begegnung": "Houston Texans — Cincinnati Bengals",
-      "beginn": "2026-09-20T17:00:00Z",
-      "quelle": "aufsicht",
-      "sicherheit": 0.85,
-      "streams": [
-        {
-          "id": "studio-evt-nfl-401872934",
-          "name": "CBS 12 Cincinnati OH (WKRC) (1080p)",
-          "url": "https://linear-691.frequency.stream/dist/stirr/691/hls/master/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "eventId": "evt-nfl-401872937",
-      "begegnung": "Chicago Bears — Minnesota Vikings",
-      "beginn": "2026-09-20T17:00:00Z",
-      "quelle": "aufsicht",
-      "sicherheit": 0.85,
-      "streams": [
-        {
-          "id": "studio-evt-nfl-401872937",
-          "name": "FOX Chicago IL (WFLD) (216p)",
-          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wfld-lgus/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "eventId": "evt-nfl-401872939",
-      "begegnung": "Tennessee Titans — Philadelphia Eagles",
-      "beginn": "2026-09-20T17:00:00Z",
-      "quelle": "aufsicht",
-      "sicherheit": 0.85,
-      "streams": [
-        {
-          "id": "studio-evt-nfl-401872939",
-          "name": "FOX Philadelphia PA (WTXF) (216p)",
-          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "eventId": "evt-nfl-401872936",
-      "begegnung": "New York Jets — Green Bay Packers",
-      "beginn": "2026-09-20T17:00:00Z",
-      "quelle": "aufsicht",
-      "sicherheit": 0.85,
-      "streams": [
-        {
-          "id": "studio-evt-nfl-401872936",
-          "name": "FOX 11 Green Bay WI (WLUK) (1080p)",
-          "url": "https://linear-702.frequency.stream/dist/stirr/702/hls/master/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "eventId": "evt-nfl-401872933",
-      "begegnung": "Atlanta Falcons — Carolina Panthers",
-      "beginn": "2026-09-20T17:00:00Z",
-      "quelle": "aufsicht",
-      "sicherheit": 0.85,
-      "streams": [
-        {
-          "id": "studio-evt-nfl-401872933",
-          "name": "FOX 5 Atlanta GA (WAGA) (288p)",
-          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-waga-lgus/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "eventId": "evt-nfl-401872946",
-      "begegnung": "New England Patriots — Pittsburgh Steelers",
-      "beginn": "2026-09-20T17:00:00Z",
-      "quelle": "aufsicht",
-      "sicherheit": 0.85,
-      "streams": [
-        {
-          "id": "studio-evt-nfl-401872946",
-          "name": "CBS Pittsburgh PA (KDKA) (180p)",
-          "url": "https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/master.m3u8"
-        }
-      ]
-    },
-    {
-      "eventId": "evt-nfl-401872935",
-      "begegnung": "Tampa Bay Buccaneers — Cleveland Browns",
-      "beginn": "2026-09-20T17:00:00Z",
-      "quelle": "aufsicht",
-      "sicherheit": 0.85,
-      "streams": [
-        {
-          "id": "studio-evt-nfl-401872935",
-          "name": "CBS 19 Cleveland OH (WOIO) (216p)",
-          "url": "https://jmp2.uk/rok-d0d9af56b7735c318b66afe21089d028.m3u8",
-          "userAgent": "rokuandroid"
-        }
-      ]
-    },
     {
       "eventId": "evt-nfl-401872944",
       "begegnung": "Dallas Cowboys — Washington Commanders",
